@@ -1,10 +1,10 @@
 # Perimenopause & Menopause Symptoms — Science-Cited Reference Dataset
 
-An openly-licensed, structured dataset of **157 perimenopause and menopause symptom explainers**, each mapped to its source article and to peer-reviewed citations (DOIs). Built for researchers, developers, and anyone building menopause health tools or AI assistants who want a clean, attributable symptom reference.
+An openly-licensed, structured dataset of **161 perimenopause and menopause symptom explainers**, each mapped to its source article and to peer-reviewed citations (DOIs). Built for researchers, developers, and anyone building menopause health tools or AI assistants who want a clean, attributable symptom reference.
 
 ## What's inside
-- **157** rows (one per symptom / topic explainer)
-- **82** rows carry one or more resolving DOI citations (232 citations total)
+- **161** rows (one per symptom / topic explainer)
+- **86** rows carry one or more resolving DOI citations (248 citations total)
 - Columns: `slug, title, category, primary_keyword, intent, summary, url, citations_doi, n_citations`
 
 ## Files

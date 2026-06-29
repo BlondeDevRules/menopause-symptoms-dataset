@@ -594,6 +594,17 @@
     "n_citations": 3
   },
   {
+    "slug": "menopause-body-odor",
+    "title": "Why Do I Smell Different in Menopause? The Hormone-Sweat Connection",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "menopause body odor",
+    "intent": "informational",
+    "summary": "Menopause changes how you smell - body odor, vaginal scent, and night-sweat odor all shift as estrogen falls. Here is the hormone mechanism and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/menopause-body-odor",
+    "citations_doi": "10.2147/CCID.S333663; 10.1038/s41574-026-01247-8; 10.1038/s41574-026-01245-w; 10.1007/s13167-025-00406-7",
+    "n_citations": 4
+  },
+  {
     "slug": "menopause-diet-plan-lose-weight-adaptogens",
     "title": "The Menopause Diet Plan: Adaptogens for Sustainable Weight Loss",
     "category": "Weight Gain After 40",
@@ -1089,6 +1100,17 @@
     "n_citations": 4
   },
   {
+    "slug": "perimenopause-vision-changes",
+    "title": "Can Perimenopause Affect Your Vision? The Hormonal Link Most Doctors Miss",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "can perimenopause affect vision",
+    "intent": "",
+    "summary": "Perimenopause can cause dry eye, blurry vision, and increased glaucoma risk. Falling estrogen disrupts tear glands and the cornea - here is what the research says and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-vision-changes",
+    "citations_doi": "10.3390/ijms26083833; 10.3389/fimmu.2026.1732320; 10.1097/ICO.0000000000004082; 10.1097/GME.0000000000001559; 10.1038/s41598-025-03638-9",
+    "n_citations": 5
+  },
+  {
     "slug": "perimenopause-weight-gain-around-middle",
     "title": "Perimenopause Weight Gain Around Middle: Why It's Not Your Fault",
     "category": "Weight Gain After 40",
@@ -1175,6 +1197,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-weight-loss-struggle-midlife-gain",
     "citations_doi": "",
     "n_citations": 0
+  },
+  {
+    "slug": "perimenopause-why-am-i-so-cold",
+    "title": "Perimenopause and Feeling Cold: Why You're Suddenly Freezing and What It Means",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause why am i so cold",
+    "intent": "",
+    "summary": "Feeling cold during perimenopause? Falling estrogen disrupts the hypothalamus, causing cold flashes and temperature swings. Learn the science, the thyroid question, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-why-am-i-so-cold",
+    "citations_doi": "10.1080/23328940.2025.2484499; 10.1016/j.molmet.2025.102108; 10.1210/endocr/bqaf177",
+    "n_citations": 3
   },
   {
     "slug": "phytoestrogens-foods-list-for-menopause",
@@ -1362,6 +1395,17 @@
     "url": "https://estrogenleftthechat.com/blog/weight-loss-after-40",
     "citations_doi": "10.1016/j.obpill.2026.100258; 10.1097/HJH.0000000000004296; 10.1177/00368504261437185",
     "n_citations": 3
+  },
+  {
+    "slug": "weird-smelling-pee-perimenopause",
+    "title": "Why Your Pee Smells Different in Perimenopause (and What It Actually Means)",
+    "category": "Symptoms",
+    "primary_keyword": "perimenopause urine smell",
+    "intent": "",
+    "summary": "Why does pee smell different in perimenopause? Falling estrogen shifts urogenital pH, disrupts the microbiome, and raises UTI risk. Here is what the science says.",
+    "url": "https://estrogenleftthechat.com/blog/weird-smelling-pee-perimenopause",
+    "citations_doi": "10.2152/jmi.73.229; 10.1097/GME.0000000000002187; 10.1097/JU.0000000000004589; 10.1016/j.maturitas.2026.108921",
+    "n_citations": 4
   },
   {
     "slug": "what-really-happens-in-menopause",
