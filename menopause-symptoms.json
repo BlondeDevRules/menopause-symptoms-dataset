@@ -594,6 +594,17 @@
     "n_citations": 3
   },
   {
+    "slug": "menopause-bloating",
+    "title": "Menopause Bloating: Why Your Stomach Balloons and What Your Hormones Have to Do With It",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "why do i feel bloated menopause",
+    "intent": "",
+    "summary": "Why you feel bloated during menopause: the hormonal mechanisms behind gut motility changes, water retention, and microbiome shifts - plus what the research says actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/menopause-bloating",
+    "citations_doi": "10.1177/15409996261455326; 10.1136/bmjsrh-2025-203075; 10.3389/fendo.2026.1780806; 10.1080/27697061.2026.2632580",
+    "n_citations": 4
+  },
+  {
     "slug": "menopause-body-odor",
     "title": "Why Do I Smell Different in Menopause? The Hormone-Sweat Connection",
     "category": "Menopause Symptoms",
@@ -636,6 +647,17 @@
     "url": "https://estrogenleftthechat.com/blog/menopause-fatigue-what-helps",
     "citations_doi": "",
     "n_citations": 0
+  },
+  {
+    "slug": "menopause-foot-pain",
+    "title": "Menopause and Foot Pain: Why Your Feet Hurt More in Your 40s (And What Estrogen Has to Do With It)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "menopause foot pain",
+    "intent": "",
+    "summary": "Menopause foot pain is real - caused by estrogen loss reducing collagen in tendons and ligaments, thinning fat pads, and lowering bone density. Learn the hormonal mechanism behind plantar fasciitis, heel pain, and swollen feet in perimenopause, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/menopause-foot-pain",
+    "citations_doi": "10.3389/fphys.2018.01834; 10.5535/arm.250134; 10.1038/s44294-025-00063-1; 10.1016/j.maturitas.2024.108135",
+    "n_citations": 4
   },
   {
     "slug": "menopause-gut-health-personalized-nutrition",
@@ -735,6 +757,17 @@
     "url": "https://estrogenleftthechat.com/blog/menopause-nutrition-basics",
     "citations_doi": "",
     "n_citations": 0
+  },
+  {
+    "slug": "menopause-recurrent-utis",
+    "title": "Why Do I Keep Getting UTIs? The Menopause Connection Nobody Explains",
+    "category": "Perimenopause Symptoms",
+    "primary_keyword": "why do i keep getting utis menopause",
+    "intent": "informational",
+    "summary": "Recurrent UTIs in perimenopause and menopause are driven by estrogen loss, not bad luck. Learn what genitourinary syndrome of menopause is and what the research says about prevention.",
+    "url": "https://estrogenleftthechat.com/blog/menopause-recurrent-utis",
+    "citations_doi": "10.1097/01.JAA.0000000000000378; 10.21037/gpm-2025-1-79; 10.1016/j.maturitas.2026.108921; 10.1159/000553344",
+    "n_citations": 4
   },
   {
     "slug": "menopause-weight-gain-around-middle-what-to-do",
@@ -1001,6 +1034,17 @@
     "n_citations": 3
   },
   {
+    "slug": "perimenopause-acid-reflux",
+    "title": "Can Perimenopause Cause Acid Reflux? What Hormones Do to Your Esophagus",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "can perimenopause cause reflux",
+    "intent": "",
+    "summary": "Can perimenopause cause acid reflux and heartburn? Yes - falling progesterone relaxes the esophageal sphincter while estrogen decline raises sensitivity. Here is what the research shows and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-acid-reflux",
+    "citations_doi": "10.1080/13697137.2025.2610483; 10.1515/jbcpp-2025-0097; 10.1016/j.cgh.2022.01.058",
+    "n_citations": 3
+  },
+  {
     "slug": "perimenopause-and-weight-beyond-calories-crash-diets",
     "title": "Perimenopause and Weight: Beyond Calories & Crash Diets",
     "category": "Perimenopause",
@@ -1045,6 +1089,28 @@
     "n_citations": 2
   },
   {
+    "slug": "perimenopause-canker-sores",
+    "title": "Perimenopause Canker Sores: Why They Keep Coming Back",
+    "category": "Perimenopause Symptoms",
+    "primary_keyword": "perimenopause canker sores",
+    "intent": "informational",
+    "summary": "Perimenopause canker sores are not random. Learn why estrogen decline changes your oral environment and what you can do to reduce their frequency and pain.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-canker-sores",
+    "citations_doi": "10.3390/ijerph19010253; 10.1016/j.jds.2021.06.007; 10.4103/jmh.jmh_194_22; 10.1177/0300060517745388",
+    "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-gum-problems",
+    "title": "Why Are My Gums Bleeding in Perimenopause? The Hormonal Link Your Dentist May Have Missed",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause gum problems",
+    "intent": "",
+    "summary": "Why perimenopause causes gum problems including bleeding, soreness, and gum disease - what the latest research shows, what you can do, and why it matters beyond your teeth.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-gum-problems",
+    "citations_doi": "10.1002/jper.70126; 10.1002/JPER.24-0267; 10.1080/13697137.2026.2631512",
+    "n_citations": 3
+  },
+  {
     "slug": "perimenopause-hormonal-shifts-midlife-metabolism",
     "title": "Perimenopause Hormonal Shifts: Navigating Your Midlife Metabolism",
     "category": "Hormones & Lifestyle",
@@ -1054,6 +1120,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-hormonal-shifts-midlife-metabolism",
     "citations_doi": "",
     "n_citations": 0
+  },
+  {
+    "slug": "perimenopause-nausea",
+    "title": "Perimenopause Can Cause Nausea: Why Your Stomach Feels Off (and What Is Actually Happening)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause nausea",
+    "intent": "",
+    "summary": "Perimenopause can cause nausea - a direct result of falling estrogen disrupting gut motility, the gut microbiome, and cortisol regulation. Learn the hormone mechanism, why it strikes morning or evening, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-nausea",
+    "citations_doi": "10.1177/17455057251387470; 10.1186/s12905-024-03448-7; 10.5056/jnm20208; 10.1111/nmo.13913",
+    "n_citations": 4
   },
   {
     "slug": "perimenopause-progesterone-decline-first-hormone-to-fade",
@@ -1078,6 +1155,17 @@
     "n_citations": 0
   },
   {
+    "slug": "perimenopause-rosacea",
+    "title": "Can Perimenopause Cause Rosacea? What Your Skin Is Actually Telling You",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "can perimenopause cause rosacea",
+    "intent": "",
+    "summary": "Can perimenopause cause rosacea? Yes - falling estrogen changes vascular reactivity and skin barrier function in ways that trigger or worsen rosacea. Here is what the research says and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-rosacea",
+    "citations_doi": "10.1111/srt.13542; 10.1007/s40257-025-00994-0; 10.1093/bjd/ljae226; 10.1016/j.clindermatol.2026.01.009",
+    "n_citations": 4
+  },
+  {
     "slug": "perimenopause-severe-anxiety-estrogen-link",
     "title": "Can Perimenopause Cause Severe Anxiety? Unpack the 'Why'",
     "category": "Mood & Brain Fog",
@@ -1089,6 +1177,17 @@
     "n_citations": 0
   },
   {
+    "slug": "perimenopause-skin-crawling",
+    "title": "Perimenopause Skin Crawling: Why Your Skin Feels Like Something Is Moving (and What It Actually Is)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause skin crawling",
+    "intent": "",
+    "summary": "Perimenopause skin crawling - called formication - is driven by falling estrogen altering skin nerve sensitivity. Learn the hormone mechanism, what triggers it, how long it lasts, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-skin-crawling",
+    "citations_doi": "10.1007/s40257-025-00994-0; 10.1177/20533691251332403; 10.1038/s41598-023-35934-7",
+    "n_citations": 3
+  },
+  {
     "slug": "perimenopause-start-at-37",
     "title": "Can Perimenopause Really Start at 37? Yes - and Here Is Why",
     "category": "Menopause Symptoms",
@@ -1098,6 +1197,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-start-at-37",
     "citations_doi": "10.1016/j.psyneuen.2026.107748; 10.1093/humupd/dmac045; 10.1136/bmj-2022-072612; 10.3390/antiox12081601",
     "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-vertigo",
+    "title": "Can Perimenopause Cause Vertigo? The Inner Ear-Estrogen Link Explained",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "can perimenopause cause vertigo",
+    "intent": "informational",
+    "summary": "Perimenopause can cause vertigo because falling estrogen destabilizes the calcium crystals in your inner ear. Learn the BPPV-estrogen connection, the Epley manoeuvre, and when dizziness is a red flag.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-vertigo",
+    "citations_doi": "10.3389/fneur.2020.589605; 10.17219/acem/121935; 10.1007/s10162-018-0666-8",
+    "n_citations": 3
   },
   {
     "slug": "perimenopause-vision-changes",
@@ -1199,6 +1309,17 @@
     "n_citations": 0
   },
   {
+    "slug": "perimenopause-weird-head-sensations",
+    "title": "Perimenopause and Weird Head Sensations: What Is Actually Happening",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause weird head sensations",
+    "intent": "",
+    "summary": "Perimenopause causes dizziness, scalp tingling, head pressure, and brain zaps - all real neurological symptoms. Here is the hormonal explanation and what helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-weird-head-sensations",
+    "citations_doi": "10.1113/JP285126; 10.3389/fneur.2020.589605; 10.1007/s11920-023-01447-3",
+    "n_citations": 3
+  },
+  {
     "slug": "perimenopause-why-am-i-so-cold",
     "title": "Perimenopause and Feeling Cold: Why You're Suddenly Freezing and What It Means",
     "category": "Menopause Symptoms",
@@ -1208,6 +1329,61 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-why-am-i-so-cold",
     "citations_doi": "10.1080/23328940.2025.2484499; 10.1016/j.molmet.2025.102108; 10.1210/endocr/bqaf177",
     "n_citations": 3
+  },
+  {
+    "slug": "perimenopause-why-am-i-so-gassy",
+    "title": "Perimenopause Why Am I So Gassy: The Hormone-Gut Connection Nobody Warned You About",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause why am i so gassy",
+    "intent": "",
+    "summary": "Gassier during perimenopause? Falling progesterone slows your gut and declining estrogen disrupts gut bacteria. Learn the hormone-gut connection and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-why-am-i-so-gassy",
+    "citations_doi": "10.1093/gerona/glaa244; 10.1080/13697137.2022.2033203; 10.1016/j.maturitas.2026.109031; 10.1002/jcp.31106",
+    "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-why-am-i-so-hungry",
+    "title": "Why Am I So Hungry in Perimenopause? The Hormone Science Behind Relentless Appetite",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause why am i so hungry",
+    "intent": "",
+    "summary": "Constant hunger in perimenopause is driven by falling estrogen disrupting leptin and ghrelin, not willpower. Learn the hormone science behind relentless appetite and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-why-am-i-so-hungry",
+    "citations_doi": "10.1007/s44417-026-00014-7; 10.1113/JP279501; 10.1210/clinem/dgaf592; 10.1016/j.ajpc.2025.101398; 10.1042/bsr20231916",
+    "n_citations": 5
+  },
+  {
+    "slug": "perimenopause-why-am-i-so-tired",
+    "title": "Perimenopause and Exhaustion: Why You Are So Tired and What Is Actually Happening",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause why am i so tired",
+    "intent": "",
+    "summary": "Perimenopause fatigue has a real hormonal cause. Learn why falling estrogen and progesterone leave you exhausted even after 8 hours of sleep, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-why-am-i-so-tired",
+    "citations_doi": "10.1186/s12905-026-04563-3; 10.5114/pm.2025.150450; 10.1097/CIN.0000000000001215; 10.1080/13697137.2026.2663898",
+    "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-why-do-i-cry-so-much",
+    "title": "Why Do I Cry So Much in Perimenopause? (It Is Not Just in Your Head)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "is it normal to cry everyday in perimenopause",
+    "intent": "",
+    "summary": "Crying every day in perimenopause is common and hormonal. Learn why falling estrogen and progesterone disrupt your emotional stability - and what the research says actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-why-do-i-cry-so-much",
+    "citations_doi": "10.1515/tnsci-2025-0399; 10.1146/annurev-clinpsy-061724-083756; 10.3390/nu18132185; 10.1016/j.jad.2026.121892",
+    "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-why-do-i-hate-my-husband",
+    "title": "Perimenopause Rage at Your Husband: Why It Happens and When It Gets Better",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause why do i hate my husband",
+    "intent": "",
+    "summary": "Perimenopause irritability and rage toward a husband or partner: why falling progesterone and fluctuating estrogen drive partner-directed anger, what the research shows, and what the trajectory looks like.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-why-do-i-hate-my-husband",
+    "citations_doi": "10.1097/GME.0000000000002431; 10.1097/GME.0000000000002339; 10.1097/GME.0000000000002570; 10.1080/13697137.2024.2340476",
+    "n_citations": 4
   },
   {
     "slug": "phytoestrogens-foods-list-for-menopause",
