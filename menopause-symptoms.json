@@ -1144,6 +1144,17 @@
     "n_citations": 4
   },
   {
+    "slug": "perimenopause-cant-remember-words",
+    "title": "Why Can't I Remember Words During Perimenopause? (It's Not Dementia)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause can't remember words",
+    "intent": "informational",
+    "summary": "Word-finding problems in perimenopause are caused by estrogen's disruption of verbal memory retrieval - not dementia. Here is the mechanism, why names drop out first, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-cant-remember-words",
+    "citations_doi": "10.1080/13803395.2026.2661616; 10.1007/s10339-025-01265-w; 10.1097/GME.0000000000002651; 10.1097/GME.0000000000002512",
+    "n_citations": 4
+  },
+  {
     "slug": "perimenopause-constipation",
     "title": "Why Am I So Constipated in Perimenopause? The Gut-Hormone Connection",
     "category": "Menopause Symptoms",
@@ -1296,6 +1307,28 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-nerve-tingling",
     "citations_doi": "10.1016/j.brainres.2024.148798; 10.1186/s10195-023-00707-5; 10.7759/cureus.107006",
     "n_citations": 3
+  },
+  {
+    "slug": "perimenopause-neuropathy",
+    "title": "Can Perimenopause Cause Neuropathy? The Estrogen-Nerve Link Explained",
+    "category": "Perimenopause Symptoms",
+    "primary_keyword": "perimenopause neuropathy",
+    "intent": "informational",
+    "summary": "Can perimenopause cause neuropathy? Yes - estrogen loss disrupts peripheral nerve health, raising carpal tunnel risk by up to 65%. Learn the science and what helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-neuropathy",
+    "citations_doi": "10.1097/GME.0000000000001804; 10.1016/j.jsbmb.2024.106590; 10.1097/GME.0000000000002681; 10.1186/s10195-023-00707-5",
+    "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-nightmares",
+    "title": "Can Perimenopause Cause Nightmares? Yes - Here Is What Is Happening to Your Brain",
+    "category": "Perimenopause Symptoms",
+    "primary_keyword": "can perimenopause cause nightmares",
+    "intent": "",
+    "summary": "Can perimenopause cause nightmares? Yes - declining progesterone and estrogen disrupt REM sleep and trigger vivid dreams. Here is what the science says and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-nightmares",
+    "citations_doi": "10.1016/j.mcna.2026.01.005; 10.3389/fpsyt.2026.1809106; 10.1002/brb3.70383; 10.1016/j.sleep.2026.109040",
+    "n_citations": 4
   },
   {
     "slug": "perimenopause-progesterone-decline-first-hormone-to-fade",
