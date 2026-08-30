@@ -121,6 +121,17 @@
     "n_citations": 3
   },
   {
+    "slug": "can-perimenopause-cause-kidney-stones",
+    "title": "Can Perimenopause Cause Kidney Stones? What the Research Actually Says",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "can perimenopause cause kidney stones",
+    "intent": "informational",
+    "summary": "Can perimenopause cause kidney stones? Yes - postmenopausal women are 50% more likely to develop kidney stone disease. The mechanism runs through altered urinary citrate, accelerated bone turnover, and metabolic pH shifts driven by estrogen decline. Here is what the research shows.",
+    "url": "https://estrogenleftthechat.com/blog/can-perimenopause-cause-kidney-stones",
+    "citations_doi": "10.1016/j.annepidem.2022.12.002; 10.1016/j.juro.2018.04.080",
+    "n_citations": 2
+  },
+  {
     "slug": "cant-sleep-menopause-culprit",
     "title": "Can't Sleep? Menopause Might Be the Culprit – Here's Why",
     "category": "Sleep & Stress",
@@ -133,14 +144,14 @@
   },
   {
     "slug": "cant-sleep-menopause-reclaim-nights-science",
-    "title": "Can't Sleep Menopause? Reclaim Your Nights With Science",
+    "title": "Why You Can't Fall Asleep in Menopause: The Progesterone-GABA Connection",
     "category": "Sleep & Stress",
-    "primary_keyword": "can't sleep menopause",
+    "primary_keyword": "why can't I fall asleep menopause progesterone",
     "intent": "informational",
-    "summary": "Experiencing 'can't sleep menopause' struggles? Understand the hormonal and metabolic reasons behind your sleep loss and discover effective, science-backed protocols to reclaim restorative sleep.",
+    "summary": "Trouble falling asleep in menopause, as opposed to staying asleep, is often about falling progesterone and its role in supporting GABA, the brain's main calming neurotransmitter.",
     "url": "https://estrogenleftthechat.com/blog/cant-sleep-menopause-reclaim-nights-science",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.3389/fphar.2024.1432726; 10.1038/s41598-023-35826-w; 10.1097/GME.0000000000002386",
+    "n_citations": 3
   },
   {
     "slug": "cardiovascular-protection-postmenopause",
@@ -155,14 +166,14 @@
   },
   {
     "slug": "cardiovascular-protection-strategies-postmenopausal-women",
-    "title": "Cardiovascular Protection: New Strategies for Postmenopausal Women",
+    "title": "The Exercise Protocol for Heart Protection in Menopause",
     "category": "Heart & Cardiovascular Health",
-    "primary_keyword": "cardiovascular protection strategies for postmenopausal women",
+    "primary_keyword": "exercise protocol heart health menopause",
     "intent": "informational",
-    "summary": "Beyond estrogen, new research reveals FSH's role in cardiovascular risk after menopause. Learn about modern hormone therapy and actionable strategies for heart protection.",
+    "summary": "A 2024 network meta-analysis of exercise types in postmenopausal women points to specific, evidence-backed choices for cardiovascular protection. Here is the practical weekly protocol.",
     "url": "https://estrogenleftthechat.com/blog/cardiovascular-protection-strategies-postmenopausal-women",
-    "citations_doi": "10.1186/s12944-026-02922-5; 10.2147/IJWH.S571490; 10.3389/frph.2026.1745210",
-    "n_citations": 3
+    "citations_doi": "10.7717/peerj.17621; 10.1177/17455057241290889",
+    "n_citations": 2
   },
   {
     "slug": "cholesterol-changes-menopause-estrogen",
@@ -177,14 +188,14 @@
   },
   {
     "slug": "cholesterol-changes-menopause-estrogen-1775635278217",
-    "title": "Cholesterol & Menopause: Why Your LDL Soars Post-Estrogen",
-    "category": "Heart & Cardiovascular Health",
-    "primary_keyword": "cholesterol changes in menopause LDL and estrogen",
+    "title": "When Diet Isn't Enough: Statins and Cholesterol Treatment Decisions in Menopause",
+    "category": "Metabolism in Midlife",
+    "primary_keyword": "statins cholesterol menopause treatment decision",
     "intent": "informational",
-    "summary": "Uncover the critical link between estrogen decline, menopause, and soaring LDL cholesterol. Learn the mechanisms behind these changes and how to protect your cardiovascular health.",
+    "summary": "When lifestyle changes alone don't bring menopausal LDL cholesterol down, here is what the evidence says about statin treatment decisions specifically for women.",
     "url": "https://estrogenleftthechat.com/blog/cholesterol-changes-menopause-estrogen-1775635278217",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.3389/fendo.2024.1500712; 10.3390/pharmacy10050105",
+    "n_citations": 2
   },
   {
     "slug": "circadian-rhythm-after-40",
@@ -221,14 +232,14 @@
   },
   {
     "slug": "cortisol-stress-menopause-weight",
-    "title": "Cortisol, Stress, and Menopause Weight: Breaking the Cycle",
+    "title": "Why Poor Sleep Wrecks Your Weight in Menopause: The Cortisol-Sleep Loop",
     "category": "Sleep & Stress",
-    "primary_keyword": "",
+    "primary_keyword": "sleep cortisol weight gain menopause",
     "intent": "informational",
-    "summary": "How cortisol and stress drive menopause weight gain. Learn the science behind the stress-weight connection and practical strategies to break the cycle.",
+    "summary": "Fragmented sleep in menopause raises cortisol directly, independent of stress. Here is the sleep-cortisol-weight loop, the research behind it, and how to break it.",
     "url": "https://estrogenleftthechat.com/blog/cortisol-stress-menopause-weight",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1210/clinem/dgad285; 10.3390/healthcare13243214",
+    "n_citations": 2
   },
   {
     "slug": "creatine-for-menopause-muscle-bone-brain",
@@ -418,6 +429,17 @@
     "n_citations": 3
   },
   {
+    "slug": "how-long-does-perimenopause-last",
+    "title": "How Long Does Perimenopause Last? What the Research Actually Says",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "how long does perimenopause last",
+    "intent": "informational",
+    "summary": "How long does perimenopause last? The average is 4-8 years, but individual timelines vary widely. Learn what drives your duration, what early vs late perimenopause looks like, and when to expect it to end.",
+    "url": "https://estrogenleftthechat.com/blog/how-long-does-perimenopause-last",
+    "citations_doi": "10.1016/j.psyneuen.2026.107748; 10.1080/13697137.2026.2675563; 10.1210/clinem/dgaf699; 10.1080/13697137.2026.2691921",
+    "n_citations": 4
+  },
+  {
     "slug": "how-to-lose-weight-during-menopause-overnight-fasting",
     "title": "Lose Weight During Menopause: The Overnight Fasting Secret",
     "category": "Weight Gain After 40",
@@ -463,25 +485,25 @@
   },
   {
     "slug": "insulin-resistance-menopause",
-    "title": "Why Insulin Resistance in Menopause Makes Weight Loss Harder",
+    "title": "Should You Use a Continuous Glucose Monitor in Menopause?",
     "category": "Metabolism in Midlife",
-    "primary_keyword": "insulin resistance menopause",
+    "primary_keyword": "continuous glucose monitor menopause",
     "intent": "informational",
-    "summary": "Understanding insulin resistance in menopause is crucial for midlife women. Learn how estrogen decline affects your metabolism and discover effective strategies from 'Estrogen Left the Chat' to regain control.",
+    "summary": "Continuous glucose monitors are not just for diabetics. Here is what research shows about postmenopausal glucose responses and whether a CGM is worth using.",
     "url": "https://estrogenleftthechat.com/blog/insulin-resistance-menopause",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1016/j.ebiom.2022.104303; 10.7759/cureus.94460",
+    "n_citations": 2
   },
   {
     "slug": "insulin-resistance-menopause-diet",
-    "title": "Insulin Resistance Menopause Diet: What to Eat to Reverse It",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "insulin resistance menopause diet",
+    "title": "Does HRT Improve Insulin Resistance in Menopause?",
+    "category": "Metabolism in Midlife",
+    "primary_keyword": "HRT insulin resistance menopause",
     "intent": "informational",
-    "summary": "Explore the science behind insulin resistance in menopause and why a specialized diet is key. This article details dietary protocols to stabilize blood sugar and optimize metabolism.",
+    "summary": "A 2025 meta-analysis of 17 trials and over 29,000 women found hormone therapy significantly reduces insulin resistance in menopause. Here is what that means for your decision.",
     "url": "https://estrogenleftthechat.com/blog/insulin-resistance-menopause-diet",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1080/13697137.2025.2509844; 10.1038/s41467-024-47687-6",
+    "n_citations": 2
   },
   {
     "slug": "insulin-resistance-menopause-diet-plan",
@@ -496,25 +518,25 @@
   },
   {
     "slug": "insulin-resistance-menopause-diet-plan-1774792868369",
-    "title": "Insulin Resistance & Menopause: Your Biohacking Diet Plan",
+    "title": "Insulin Resistance and Bone Health: The Overlooked Menopause Connection",
     "category": "Metabolism in Midlife",
-    "primary_keyword": "insulin resistance menopause diet plan",
+    "primary_keyword": "insulin resistance bone health menopause",
     "intent": "informational",
-    "summary": "Combat insulin resistance in menopause with expert diet strategies. Learn how to biohack your metabolism, manage blood sugar, and reduce mortality risk.",
+    "summary": "Insulin resistance is an independent, often-overlooked contributor to bone loss in menopause, separate from falling estrogen alone. Here is the mechanism and what it means for your diet.",
     "url": "https://estrogenleftthechat.com/blog/insulin-resistance-menopause-diet-plan-1774792868369",
-    "citations_doi": "10.3390/medicina62030491; 10.1002/jper.70134; 10.1002/ijgo.70943",
-    "n_citations": 3
+    "citations_doi": "10.3390/jcm13092529; 10.1038/s41598-023-32931-8",
+    "n_citations": 2
   },
   {
     "slug": "insulin-resistance-menopause-weight-gain-estrogen-left-the-chat",
-    "title": "Insulin Resistance & Menopause Weight Gain: Your Body Changed",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "insulin resistance menopause weight gain",
+    "title": "How Poor Sleep Worsens Insulin Resistance in Menopause, Independent of Diet",
+    "category": "Metabolism in Midlife",
+    "primary_keyword": "sleep insulin resistance menopause",
     "intent": "informational",
-    "summary": "Uncover the science behind insulin resistance and menopause weight gain. Learn how estrogen’s decline impacts your metabolism and effective strategies from 'Estrogen Left the Chat' to reverse it.",
+    "summary": "Chronic insufficient sleep directly worsens insulin sensitivity in women, independent of diet or weight changes, and the effect is stronger after menopause.",
     "url": "https://estrogenleftthechat.com/blog/insulin-resistance-menopause-weight-gain-estrogen-left-the-chat",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.2337/dc23-1156; 10.3390/jcm14051479",
+    "n_citations": 2
   },
   {
     "slug": "insulin-resistance-perimenopause",
@@ -559,6 +581,17 @@
     "url": "https://estrogenleftthechat.com/blog/leaky-gut-inflammation-midlife-women",
     "citations_doi": "",
     "n_citations": 0
+  },
+  {
+    "slug": "low-libido-menopause-testosterone",
+    "title": "Why Sex Drive Drops in Menopause: The Testosterone Piece Nobody Explains",
+    "category": "Intimacy & Sexual Health",
+    "primary_keyword": "low libido menopause testosterone",
+    "intent": "informational",
+    "summary": "Low libido in menopause is often driven by declining testosterone, a separate mechanism from vaginal dryness. Here is what the research shows.",
+    "url": "https://estrogenleftthechat.com/blog/low-libido-menopause-testosterone",
+    "citations_doi": "10.1056/NEJMoa0707302; 10.1097/GRF.0000000000000916",
+    "n_citations": 2
   },
   {
     "slug": "melatonin-menopause-metabolism-fix-book",
@@ -705,14 +738,14 @@
   },
   {
     "slug": "menopause-heart-disease-risk-doubles-exploring-mechanisms",
-    "title": "Why Heart Disease Risk Doubles Post-Menopause: An Expert Guide",
+    "title": "The Blood Test That Predicts Heart Risk Better Than Cholesterol Alone",
     "category": "Heart & Cardiovascular Health",
-    "primary_keyword": "heart disease risk menopause",
+    "primary_keyword": "hs-CRP test heart disease menopause",
     "intent": "informational",
-    "summary": "Why does heart disease risk double after menopause? Explore the hormonal, metabolic, and inflammatory changes driving increased cardiovascular threats in women.",
+    "summary": "hs-CRP, a simple inflammation blood test, can identify cardiovascular risk in menopausal women even when standard cholesterol numbers look normal.",
     "url": "https://estrogenleftthechat.com/blog/menopause-heart-disease-risk-doubles-exploring-mechanisms",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1056/NEJM200003233421202; 10.47582/jompac.1802300",
+    "n_citations": 2
   },
   {
     "slug": "menopause-heart-palpitations",
@@ -1024,14 +1057,14 @@
   },
   {
     "slug": "optimizing-circadian-rhythm-after-40",
-    "title": "Optimizing Circadian Rhythm After 40 for Better Sleep & Health",
+    "title": "The Daily Timing Protocol for Circadian Rhythm After 40: Light, Meals, Movement",
     "category": "Sleep & Stress",
-    "primary_keyword": "circadian rhythm after 40",
+    "primary_keyword": "circadian rhythm timing schedule after 40",
     "intent": "informational",
-    "summary": "Learn to optimize your circadian rhythm after 40. This expert guide from Marilyn Luis explains how menopausal hormone changes affect your sleep-wake cycle and offers science-backed strategies for better health.",
+    "summary": "A practical daily timing schedule, light exposure, meal timing, and movement, to support a weakening circadian rhythm after 40 and through menopause.",
     "url": "https://estrogenleftthechat.com/blog/optimizing-circadian-rhythm-after-40",
-    "citations_doi": "10.1177/10600280261426643; 10.1080/27697061.2026.2632580; 10.1371/journal.pone.0345517",
-    "n_citations": 3
+    "citations_doi": "10.1111/jsr.14219; 10.3390/nu17132135",
+    "n_citations": 2
   },
   {
     "slug": "optimizing-circadian-rhythm-after-40-1774382496561",
@@ -1043,6 +1076,17 @@
     "url": "https://estrogenleftthechat.com/blog/optimizing-circadian-rhythm-after-40-1774382496561",
     "citations_doi": "10.1080/27697061.2026.2632580; 10.1371/journal.pone.0345517; 10.1177/10600280261426643",
     "n_citations": 3
+  },
+  {
+    "slug": "painful-sex-after-menopause",
+    "title": "Painful Sex After Menopause: What Actually Helps",
+    "category": "Intimacy & Sexual Health",
+    "primary_keyword": "painful sex after menopause",
+    "intent": "informational",
+    "summary": "Painful sex after menopause, dyspareunia, is common and treatable. Here is what the evidence shows actually helps, beyond just lubricant.",
+    "url": "https://estrogenleftthechat.com/blog/painful-sex-after-menopause",
+    "citations_doi": "10.1097/GME.0000000000002589; 10.1093/sxmrev/qeaf055",
+    "n_citations": 2
   },
   {
     "slug": "perimenopause-acid-reflux",
@@ -1111,6 +1155,17 @@
     "n_citations": 2
   },
   {
+    "slug": "perimenopause-can-cause-uti",
+    "title": "Why Do I Keep Getting UTIs in Perimenopause? The Estrogen-Bladder Connection",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause can cause uti",
+    "intent": "informational",
+    "summary": "Can perimenopause cause UTIs? Yes - declining estrogen thins your urinary tract lining and disrupts the protective Lactobacillus microbiome, making you far more vulnerable to recurrent infection. Here is the mechanism and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-can-cause-uti",
+    "citations_doi": "10.1159/000553344; 10.1097/GME.0000000000002187; 10.3389/frph.2021.783247; 10.1097/SPV.0000000000001171",
+    "n_citations": 4
+  },
+  {
     "slug": "perimenopause-can-it-be-reversed",
     "title": "Can Perimenopause Be Reversed? What the Science Actually Says",
     "category": "Hormones",
@@ -1141,6 +1196,17 @@
     "summary": "Why can't you drink alcohol in perimenopause like you used to? Falling estrogen reduces body water and alters liver enzymes - making the same drink hit harder, disrupt sleep, and worsen hot flashes. Here is the science.",
     "url": "https://estrogenleftthechat.com/blog/perimenopause-cant-drink-alcohol",
     "citations_doi": "10.1016/j.maturitas.2018.03.006; 10.1016/j.maturitas.2026.108958; 10.1002/cncr.35391; 10.1177/15598276241232359",
+    "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-cant-focus-at-work",
+    "title": "Why Can't I Focus at Work During Perimenopause? (The Estrogen Attention Link)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause can't focus at work",
+    "intent": "informational",
+    "summary": "Can't focus at work during perimenopause? Estrogen directly regulates the prefrontal circuits that run sustained attention. Here is the mechanism, why deadline pressure hits harder now, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-cant-focus-at-work",
+    "citations_doi": "10.1037/pag0000946; 10.1016/j.maturitas.2023.107804; 10.1080/13697137.2021.1892627; 10.1097/GME.0000000000002651",
     "n_citations": 4
   },
   {
@@ -1178,14 +1244,14 @@
   },
   {
     "slug": "perimenopause-dizzy",
-    "title": "Why Am I So Dizzy in Perimenopause? The Inner-Ear Estrogen Connection",
+    "title": "Why Am I So Dizzy in Perimenopause? Vertigo vs. Presyncope vs. General Wooziness",
     "category": "Menopause Symptoms",
-    "primary_keyword": "why am i so dizzy perimenopause",
+    "primary_keyword": "dizzy perimenopause vertigo or presyncope",
     "intent": "informational",
-    "summary": "Why does perimenopause cause dizziness? Falling estrogen destabilizes the inner ear's calcium crystals, triggering BPPV (spinning vertigo). Learn the mechanism and what actually helps.",
+    "summary": "Dizziness in perimenopause comes in different forms: spinning vertigo, near-fainting presyncope, or general wooziness. Here is how to tell them apart, and what each one means.",
     "url": "https://estrogenleftthechat.com/blog/perimenopause-dizzy",
-    "citations_doi": "10.3389/fneur.2020.589605; 10.1007/s10162-018-0666-8; 10.1016/j.eprac.2022.04.001; 10.17219/acem/121935",
-    "n_citations": 4
+    "citations_doi": "10.1152/ajpheart.00247.2025; 10.1152/ajpheart.00477.2022; 10.1152/japplphysiol.00477.2024",
+    "n_citations": 3
   },
   {
     "slug": "perimenopause-dry-eyes",
@@ -1208,6 +1274,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-eczema",
     "citations_doi": "10.3389/falgy.2026.1777688; 10.1007/s40257-025-00994-0; 10.1007/s13555-026-01731-z",
     "n_citations": 3
+  },
+  {
+    "slug": "perimenopause-eye-twitching",
+    "title": "Can Perimenopause Cause Eye Twitching? What Your Eyelid Is Trying to Tell You",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "can perimenopause cause eye twitching",
+    "intent": "informational",
+    "summary": "Can perimenopause cause eye twitching? Yes - eyelid myokymia is driven by hormonal nerve changes, sleep disruption, and magnesium loss. Learn what triggers it and how to make it stop.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-eye-twitching",
+    "citations_doi": "10.1016/j.neuroscience.2025.12.055; 10.3390/jcm14051479; 10.1093/ajcn/nqaa392; 10.3389/fimmu.2026.1732320",
+    "n_citations": 4
   },
   {
     "slug": "perimenopause-fainting",
@@ -1450,6 +1527,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-vision-changes",
     "citations_doi": "10.3390/ijms26083833; 10.3389/fimmu.2026.1732320; 10.1097/ICO.0000000000004082; 10.1097/GME.0000000000001559; 10.1038/s41598-025-03638-9",
     "n_citations": 5
+  },
+  {
+    "slug": "perimenopause-vomiting",
+    "title": "Can Perimenopause Cause Vomiting? What Your Gut-Brain Axis Is Telling You",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "can perimenopause cause vomiting",
+    "intent": "informational",
+    "summary": "Yes, perimenopause can cause vomiting - estrogen disrupts the gut-brain axis and serotonin signaling in the GI tract. Here is the mechanism, why it feels exactly like food poisoning, and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-vomiting",
+    "citations_doi": "10.1152/ajpgi.00144.2019; 10.5056/jnm20208; 10.1111/nmo.13913; 10.1016/j.yfrne.2026.101233",
+    "n_citations": 4
   },
   {
     "slug": "perimenopause-weight-gain-around-middle",
@@ -1695,13 +1783,13 @@
   },
   {
     "slug": "phytoestrogens-foods-list-for-menopause-1774425636573",
-    "title": "Phytoestrogens Foods List for Menopause: Your Hormone-Hacking Guide",
+    "title": "Are Phytoestrogens Safe? The Breast Cancer Question, Answered Honestly",
     "category": "Menopause Nutrition",
-    "primary_keyword": "phytoestrogen foods list for menopause",
+    "primary_keyword": "are phytoestrogens safe breast cancer",
     "intent": "informational",
-    "summary": "Unlock the power of phytoestrogen foods for menopause symptom relief. This expert guide provides a comprehensive phytoestrogen foods list and actionable advice.",
+    "summary": "Do phytoestrogens increase breast cancer risk? Here is what current research actually shows, including specific guidance for breast cancer survivors.",
     "url": "https://estrogenleftthechat.com/blog/phytoestrogens-foods-list-for-menopause-1774425636573",
-    "citations_doi": "10.1177/10600280261426643; 10.1080/27697061.2026.2632580",
+    "citations_doi": "10.1007/s13668-025-00640-5; 10.3390/cancers14246163",
     "n_citations": 2
   },
   {
@@ -1717,14 +1805,14 @@
   },
   {
     "slug": "preventing-heart-disease-after-menopause",
-    "title": "Preventing Heart Disease After Menopause: New Insights & Strategies",
+    "title": "The Diet Pattern That Actually Protects Your Heart in Menopause",
     "category": "Heart & Cardiovascular Health",
-    "primary_keyword": "preventing heart disease after menopause",
+    "primary_keyword": "diet heart disease prevention menopause",
     "intent": "informational",
-    "summary": "Discover new research on preventing heart disease after menopause. Understand the complex roles of estrogen, FSH, and lymphatic function in heart health.",
+    "summary": "Mediterranean and DASH dietary patterns have real trial evidence for cardiovascular protection in postmenopausal women specifically. Here is what actually works.",
     "url": "https://estrogenleftthechat.com/blog/preventing-heart-disease-after-menopause",
-    "citations_doi": "10.3389/fcvm.2026.1699372; 10.2147/IJWH.S571490; 10.1001/jamanetworkopen.2026.3404",
-    "n_citations": 3
+    "citations_doi": "10.3934/publichealth.2024005; 10.1177/20533691251339566",
+    "n_citations": 2
   },
   {
     "slug": "protein-intake-women-over-40-sarcopenia",
@@ -1783,14 +1871,14 @@
   },
   {
     "slug": "stop-waking-up-3am-menopause-cortisol-reset",
-    "title": "Stop Waking Up at 3 AM: Menopause Sleep & Cortisol Reset",
+    "title": "Stop Waking Up at 3 AM: The Overnight Cortisol and Glucose Protocol",
     "category": "Sleep & Stress",
-    "primary_keyword": "stop waking up at 3 am every night",
+    "primary_keyword": "stop waking up at 3am menopause protocol",
     "intent": "informational",
-    "summary": "Learn how to stop waking up at 3 AM every night in menopause. This deep dive from 'Estrogen Left the Chat' reveals cortisol and glucose strategies.",
+    "summary": "A step-by-step overnight protocol for the two biggest hormonal drivers of 3am waking in menopause: cortisol timing and blood sugar swings.",
     "url": "https://estrogenleftthechat.com/blog/stop-waking-up-3am-menopause-cortisol-reset",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1210/clinem/dgag038; 10.1210/clinem/dgad285",
+    "n_citations": 2
   },
   {
     "slug": "strength-training-women-over-45-beginners",
@@ -1824,6 +1912,28 @@
     "url": "https://estrogenleftthechat.com/blog/stress-hormones-midlife-menopause",
     "citations_doi": "10.1080/27697061.2026.2632580; 10.1371/journal.pone.0345517; 10.1177/10600280261426643",
     "n_citations": 3
+  },
+  {
+    "slug": "testosterone-therapy-women-menopause-libido",
+    "title": "Should You Try Testosterone Therapy for Low Libido in Menopause?",
+    "category": "Intimacy & Sexual Health",
+    "primary_keyword": "testosterone therapy women menopause libido",
+    "intent": "informational",
+    "summary": "Testosterone therapy for low sexual desire in menopause has real clinical guidelines behind it. Here is what the evidence shows and what to discuss with your doctor.",
+    "url": "https://estrogenleftthechat.com/blog/testosterone-therapy-women-menopause-libido",
+    "citations_doi": "10.1080/09513590.2024.2364220; 10.1097/GRF.0000000000000916",
+    "n_citations": 2
+  },
+  {
+    "slug": "vaginal-dryness-gsm-menopause",
+    "title": "Vaginal Dryness in Menopause: What GSM Actually Is",
+    "category": "Intimacy & Sexual Health",
+    "primary_keyword": "vaginal dryness menopause GSM",
+    "intent": "informational",
+    "summary": "Vaginal dryness in menopause is caused by genitourinary syndrome of menopause, GSM, a real, well-researched, and treatable condition. Here is the mechanism and what helps.",
+    "url": "https://estrogenleftthechat.com/blog/vaginal-dryness-gsm-menopause",
+    "citations_doi": "10.1093/sxmrev/qeaf055; 10.7326/ANNALS-24-00610",
+    "n_citations": 2
   },
   {
     "slug": "waking-up-3am-every-night-menopause",
@@ -1992,25 +2102,25 @@
   },
   {
     "slug": "why-cholesterol-rises-after-menopause",
-    "title": "Why Your Cholesterol Rises After Menopause: The Estrogen Link",
+    "title": "Does Cholesterol Rise Suddenly in Menopause, or Gradually? The Real Timeline",
     "category": "Heart & Cardiovascular Health",
-    "primary_keyword": "why cholesterol rises after menopause",
+    "primary_keyword": "when does cholesterol rise menopause timeline",
     "intent": "informational",
-    "summary": "Uncover the science behind why cholesterol rises after menopause. Estrogen's protective role diminishes, impacting LDL, HDL, and triglycerides. Learn actionable strategies.",
+    "summary": "Cholesterol changes in menopause do not happen as one sudden jump after your last period. Here is the real timeline, and why perimenopause is when it actually starts.",
     "url": "https://estrogenleftthechat.com/blog/why-cholesterol-rises-after-menopause",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1152/japplphysiol.00120.2025; 10.1186/s12944-026-02922-5",
+    "n_citations": 2
   },
   {
     "slug": "why-cholesterol-rises-menopause-expert-guide",
-    "title": "Why Your Cholesterol Rises in Menopause: An Expert Guide",
+    "title": "HDL and Triglycerides in Menopause: The Other Half of Your Cholesterol Story",
     "category": "Heart & Cardiovascular Health",
-    "primary_keyword": "why cholesterol goes up in menopause",
+    "primary_keyword": "HDL triglycerides menopause cholesterol",
     "intent": "informational",
-    "summary": "Uncover the real reasons why cholesterol levels escalate during menopause. Learn how declining estrogen impacts lipid profiles and precise strategies to mitigate cardiovascular risk.",
+    "summary": "HDL and triglycerides change in menopause too, not just LDL, and the changes are more complicated than higher HDL simply being good news.",
     "url": "https://estrogenleftthechat.com/blog/why-cholesterol-rises-menopause-expert-guide",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1152/japplphysiol.00120.2025; 10.1186/s12944-026-02922-5",
+    "n_citations": 2
   },
   {
     "slug": "why-do-i-wake-up-at-3am-menopause",
@@ -2047,13 +2157,13 @@
   },
   {
     "slug": "why-insulin-resistance-increase-menopause",
-    "title": "Why Does Insulin Resistance Increase in Menopause? The Estrogen Link",
+    "title": "The Gut Microbiome's Role in Insulin Resistance During Menopause",
     "category": "Metabolism in Midlife",
-    "primary_keyword": "why insulin resistance increase in menopause",
+    "primary_keyword": "gut microbiome estrobolome insulin resistance menopause",
     "intent": "informational",
-    "summary": "Why does insulin resistance increase in menopause, leading to stubborn weight gain? It's not your fault! Declining estrogen fundamentally alters your metabolism. This expert analysis reveals the science and actionable strategies to regain control.",
+    "summary": "Gut bacteria directly influence both estrogen recycling and insulin sensitivity, and menopause reshapes the microbiome in ways that compound insulin resistance.",
     "url": "https://estrogenleftthechat.com/blog/why-insulin-resistance-increase-menopause",
-    "citations_doi": "10.1097/GME.0000000000002806; 10.1007/s00394-026-04005-8",
+    "citations_doi": "10.3389/fmed.2024.1452227; 10.6118/jmm.24024",
     "n_citations": 2
   },
   {
@@ -2113,14 +2223,14 @@
   },
   {
     "slug": "why-menopause-increases-heart-disease-risk",
-    "title": "Why Menopause Increases Heart Disease Risk: The Estrogen Link",
+    "title": "The Window of Opportunity: Why WHEN You Address Heart Risk in Menopause Matters",
     "category": "Heart & Cardiovascular Health",
-    "primary_keyword": "why does menopause increase heart disease",
+    "primary_keyword": "timing hypothesis heart disease menopause",
     "intent": "informational",
-    "summary": "Uncover why menopause increases heart disease risk. Learn about estrogen's protective role, metabolic changes, and actionable steps from 'Estrogen Left the Chat' to protect your heart.",
+    "summary": "Cardiology research shows a real window of opportunity for addressing heart disease risk in menopause, where timing changes how much an intervention actually helps.",
     "url": "https://estrogenleftthechat.com/blog/why-menopause-increases-heart-disease-risk",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1097/GME.0000000000000343; 10.1161/CIR.0000000000000912",
+    "n_citations": 2
   },
   {
     "slug": "why-menopause-symptoms-not-going-away-cortisol-trap",
@@ -2201,11 +2311,11 @@
   },
   {
     "slug": "why-wake-up-3am-menopause",
-    "title": "Why You Wake Up at 3 AM Every Night in Menopause: The Science-Backed Truth",
+    "title": "Why Do You Wake Up at 3 AM in Menopause? The Complete Map of Causes",
     "category": "Sleep & Stress",
-    "primary_keyword": "why do i wake up at 3am every night menopause",
+    "primary_keyword": "why do you wake up at 3am in menopause",
     "intent": "informational",
-    "summary": "Frequently waking at 3 AM in menopause? It's not just you. This article dives into the hormonal shifts, stress, and sleep disruptions behind these frustrating early morning awakenings and offers actionable science-backed solutions.",
+    "summary": "Waking up at 3am in menopause has several distinct real causes: cortisol-melatonin timing, a perimenopause hormonal cascade, gut-brain signaling, or an ADHD overlap. Here is how to tell which is yours.",
     "url": "https://estrogenleftthechat.com/blog/why-wake-up-3am-menopause",
     "citations_doi": "10.1111/jog.70276; 10.1109/JTEHM.2026.3675676; 10.2174/0118746098434021260107062622",
     "n_citations": 3
@@ -2234,13 +2344,13 @@
   },
   {
     "slug": "why-you-wake-up-at-3am-menopause-adhd-gut-metabolism",
-    "title": "Why You Wake Up at 3 AM in Menopause: ADHD, Gut & Metabolism",
+    "title": "The ADHD-Menopause Overlap: Why It Can Be the Real Reason You Wake at 3 AM",
     "category": "Sleep & Stress",
-    "primary_keyword": "why wake up at 3am menopause",
+    "primary_keyword": "ADHD menopause 3am waking",
     "intent": "informational",
-    "summary": "Discover why you wake up at 3 AM in menopause. Expert opinion on the role of hormonal shifts, ADHD, gut-brain axis, stress, and metabolism. Get actionable insights.",
+    "summary": "ADHD symptoms can worsen or first become obvious during perimenopause and menopause as falling estrogen disrupts dopamine regulation, and 3am waking is a common but overlooked sign.",
     "url": "https://estrogenleftthechat.com/blog/why-you-wake-up-at-3am-menopause-adhd-gut-metabolism",
-    "citations_doi": "10.1007/s40266-026-01291-z; 10.1039/d6fo00429f; 10.1007/s00520-026-10680-4",
-    "n_citations": 3
+    "citations_doi": "10.1192/j.eurpsy.2025.10101; 10.1007/s40266-026-01291-z",
+    "n_citations": 2
   }
 ]
