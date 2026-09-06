@@ -1,7 +1,7 @@
 [
   {
     "slug": "air-hunger-perimenopause",
-    "title": "Air Hunger in Perimenopause: Why You Can't Get a Full Breath",
+    "title": "Air Hunger in Perimenopause: Shortness of Breath Explained",
     "category": "Menopause Symptoms",
     "primary_keyword": "air hunger perimenopause",
     "intent": "informational",
@@ -320,7 +320,7 @@
   },
   {
     "slug": "fish-oil-menopause-benefits-beyond-basics",
-    "title": "Fish Oil for Menopause: Benefits Beyond the Basics",
+    "title": "Omega-3 Fish Oil for Menopause: Benefits Beyond the Basics",
     "category": "Supplements & Biohacks",
     "primary_keyword": "fish oil for menopause",
     "intent": "informational",
@@ -375,7 +375,7 @@
   },
   {
     "slug": "histamine-intolerance-perimenopause",
-    "title": "Histamine Intolerance and Perimenopause: Why You Suddenly React to Wine, Cheese, and Pollen",
+    "title": "Histamine Intolerance in Perimenopause and Menopause",
     "category": "Menopause Nutrition",
     "primary_keyword": "histamine intolerance perimenopause",
     "intent": "informational",
@@ -584,7 +584,7 @@
   },
   {
     "slug": "low-libido-menopause-testosterone",
-    "title": "Why Sex Drive Drops in Menopause: The Testosterone Piece Nobody Explains",
+    "title": "Low Libido in Menopause: The Testosterone Piece Nobody Explains",
     "category": "Intimacy & Sexual Health",
     "primary_keyword": "low libido menopause testosterone",
     "intent": "informational",
@@ -805,7 +805,7 @@
   {
     "slug": "menopause-recurrent-utis",
     "title": "Why Do I Keep Getting UTIs? The Menopause Connection Nobody Explains",
-    "category": "Perimenopause Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "why do i keep getting utis menopause",
     "intent": "informational",
     "summary": "Recurrent UTIs in perimenopause and menopause are driven by estrogen loss, not bad luck. Learn what genitourinary syndrome of menopause is and what the research says about prevention.",
@@ -1122,6 +1122,28 @@
     "n_citations": 3
   },
   {
+    "slug": "perimenopause-at-30",
+    "title": "Can Perimenopause Start at 30? Here's What the Research Actually Says",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause at 30",
+    "intent": "",
+    "summary": "Can perimenopause start at 30? Yes, but timing matters. Learn what early perimenopause symptoms look like, what else mimics it, and when to ask for a hormone panel.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-at-30",
+    "citations_doi": "10.1016/j.beem.2023.101855; 10.1016/S2213-8587(25; 10.1016/j.eclinm.2026.104032",
+    "n_citations": 3
+  },
+  {
+    "slug": "perimenopause-at-44-is-it-normal",
+    "title": "Is It Normal to Be in Perimenopause at 44? (Yes - Here's What's Happening)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause at 44",
+    "intent": "",
+    "summary": "Is it normal to be in perimenopause at 44? Yes - 44 is right in the typical range. Learn what the research says about timing, symptoms, hormones, and what comes next.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-at-44-is-it-normal",
+    "citations_doi": "10.1016/S2213-8587(25; 10.1097/GME.0000000000002837; 10.1016/j.neubiorev.2026.106773; 10.1097/CM9.0000000000004161",
+    "n_citations": 4
+  },
+  {
     "slug": "perimenopause-blood-pressure-why-yours-is-rising",
     "title": "Perimenopause & Blood Pressure: Why Yours is Rising",
     "category": "Heart & Cardiovascular Health",
@@ -1145,7 +1167,7 @@
   },
   {
     "slug": "perimenopause-brain-fog-natural-remedies-expert-insights",
-    "title": "Perimenopause Brain Fog: Natural Remedies & Expert Insights",
+    "title": "Perimenopause Brain Fog and Memory Loss: Natural Remedies & Expert Insights",
     "category": "Perimenopause",
     "primary_keyword": "perimenopause brain fog natural remedies",
     "intent": "informational",
@@ -1166,9 +1188,20 @@
     "n_citations": 4
   },
   {
+    "slug": "perimenopause-can-cause-weight-loss",
+    "title": "Can Perimenopause Cause Weight Loss? (Yes - But Not the Kind You Want)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause weight loss",
+    "intent": "",
+    "summary": "Can perimenopause cause weight loss? Yes - but it is often muscle, not fat. Learn why the scale drops during perimenopause and what the research says about what to do.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-can-cause-weight-loss",
+    "citations_doi": "10.1080/13697137.2026.2713394; 10.3390/jcm15020740; 10.1177/17455057261455585; 10.1016/j.ajpc.2025.101398",
+    "n_citations": 4
+  },
+  {
     "slug": "perimenopause-can-it-be-reversed",
     "title": "Can Perimenopause Be Reversed? What the Science Actually Says",
-    "category": "Hormones",
+    "category": "Hormones & Lifestyle",
     "primary_keyword": "perimenopause can be reversed",
     "intent": "",
     "summary": "Can perimenopause be reversed? The biology says no - but the research is clear that how brutal it feels is far more modifiable than most women are told.",
@@ -1179,7 +1212,7 @@
   {
     "slug": "perimenopause-canker-sores",
     "title": "Perimenopause Canker Sores: Why They Keep Coming Back",
-    "category": "Perimenopause Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause canker sores",
     "intent": "informational",
     "summary": "Perimenopause canker sores are not random. Learn why estrogen decline changes your oral environment and what you can do to reduce their frequency and pain.",
@@ -1190,7 +1223,7 @@
   {
     "slug": "perimenopause-cant-drink-alcohol",
     "title": "Why Alcohol Hits Harder in Perimenopause - and What to Do About It",
-    "category": "Perimenopause Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause can't drink alcohol",
     "intent": "informational",
     "summary": "Why can't you drink alcohol in perimenopause like you used to? Falling estrogen reduces body water and alters liver enzymes - making the same drink hit harder, disrupt sleep, and worsen hot flashes. Here is the science.",
@@ -1234,7 +1267,7 @@
   {
     "slug": "perimenopause-diarrhea",
     "title": "Why Perimenopause Is Giving You Diarrhea (and What to Do About It)",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause diarrhea",
     "intent": "",
     "summary": "Can perimenopause cause diarrhea? Yes - estrogen and progesterone receptors line your gut, and when those hormones fluctuate during perimenopause, loose stools and urgency follow. Here is what the research says and what actually helps.",
@@ -1256,7 +1289,7 @@
   {
     "slug": "perimenopause-dry-eyes",
     "title": "Why Are My Eyes So Dry in Perimenopause? The Hormone-Tear Connection",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause dry eyes",
     "intent": "",
     "summary": "Perimenopause dry eyes explained: estrogen and androgen receptors in the lacrimal and meibomian glands drive tear film changes. What the research shows and what actually helps.",
@@ -1289,7 +1322,7 @@
   {
     "slug": "perimenopause-fainting",
     "title": "Can Perimenopause Cause Fainting? The Lightheadedness Nobody Warned You About",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause fainting",
     "intent": "",
     "summary": "Can perimenopause cause fainting? Estrogen regulates blood pressure, and when it fluctuates during perimenopause, near-fainting and head rushes follow. Here is what the research says and what actually helps.",
@@ -1300,7 +1333,7 @@
   {
     "slug": "perimenopause-fever",
     "title": "Can Perimenopause Cause a Fever? The Hormonal Flu Explained",
-    "category": "Perimenopause Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "can perimenopause cause fever",
     "intent": "informational",
     "summary": "Can perimenopause cause a real fever? Yes - falling estrogen triggers a cytokine surge that raises core body temperature. Here is how to tell the hormonal flu from an actual illness.",
@@ -1320,9 +1353,20 @@
     "n_citations": 3
   },
   {
+    "slug": "perimenopause-hair-loss",
+    "title": "Why Your Hair Is Falling Out in Perimenopause (and What Actually Helps)",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause hair loss",
+    "intent": "",
+    "summary": "Yes, perimenopause can cause hair loss. Falling estrogen and progesterone disrupt the follicle growth cycle, causing diffuse thinning. Here is what the research says and what actually helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-hair-loss",
+    "citations_doi": "10.1016/j.jaad.2026.04.1924; 10.1080/13697137.2022.2050206; 10.1111/ced.15327; 10.1159/000551153",
+    "n_citations": 4
+  },
+  {
     "slug": "perimenopause-headaches",
-    "title": "Why Am I Getting So Many Headaches in Perimenopause? The Estrogen Connection",
-    "category": "Perimenopause Symptoms",
+    "title": "Headaches in Perimenopause and Menopause: The Estrogen Connection",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause headaches",
     "intent": "informational",
     "summary": "New or worsening headaches in perimenopause are driven by erratic estrogen swings, not just stress. Here is the science behind hormone-triggered head pain - and what actually helps.",
@@ -1344,7 +1388,7 @@
   {
     "slug": "perimenopause-jitters",
     "title": "Why Do I Feel So Jittery in Perimenopause? Your Nerves Are Not Broken",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause jitters",
     "intent": "",
     "summary": "Why do I feel so jittery in perimenopause? Estrogen and progesterone regulate your nervous system calm. When they drop, jitters, internal trembling and shakiness follow. Here is what the research says.",
@@ -1355,7 +1399,7 @@
   {
     "slug": "perimenopause-low-iron",
     "title": "Can Perimenopause Cause Low Iron? The Estrogen-Iron Link Explained",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause low iron",
     "intent": "",
     "summary": "Can perimenopause cause low iron? Yes - estrogen controls iron absorption via hepcidin. Heavier periods add blood loss. Here is how to test and what helps.",
@@ -1377,7 +1421,7 @@
   {
     "slug": "perimenopause-nerve-tingling",
     "title": "Why Your Hands and Feet Tingle in Perimenopause (Nerve Symptoms Explained)",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause nerve tingling",
     "intent": "",
     "summary": "Tingling hands, feet, and face in perimenopause is hormonal, not random. Falling estrogen disrupts nerve-protective tissue and pain signaling. Here is what causes it and what helps.",
@@ -1388,7 +1432,7 @@
   {
     "slug": "perimenopause-neuropathy",
     "title": "Can Perimenopause Cause Neuropathy? The Estrogen-Nerve Link Explained",
-    "category": "Perimenopause Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause neuropathy",
     "intent": "informational",
     "summary": "Can perimenopause cause neuropathy? Yes - estrogen loss disrupts peripheral nerve health, raising carpal tunnel risk by up to 65%. Learn the science and what helps.",
@@ -1399,7 +1443,7 @@
   {
     "slug": "perimenopause-nightmares",
     "title": "Can Perimenopause Cause Nightmares? Yes - Here Is What Is Happening to Your Brain",
-    "category": "Perimenopause Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "can perimenopause cause nightmares",
     "intent": "",
     "summary": "Can perimenopause cause nightmares? Yes - declining progesterone and estrogen disrupt REM sleep and trigger vivid dreams. Here is what the science says and what actually helps.",
@@ -1432,7 +1476,7 @@
   {
     "slug": "perimenopause-rashes",
     "title": "Why Am I Getting Skin Rashes in Perimenopause? The Hormone-Skin Connection",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause rashes",
     "intent": "",
     "summary": "Perimenopause rashes explained: why estrogen loss thins your skin barrier, amplifies histamine, and makes you suddenly reactive to products you have used for years.",
@@ -1707,7 +1751,7 @@
   {
     "slug": "perimenopause-why-am-i-so-thirsty",
     "title": "Why Am I So Thirsty During Perimenopause? The Real Reasons You Can't Quench It",
-    "category": "Perimenopause Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "why am I so thirsty perimenopause",
     "intent": "informational",
     "summary": "Constant thirst during perimenopause? Estrogen changes affect salivary glands, fluid balance, and hydration signals. Here is what the science says - and what actually helps.",
@@ -1729,7 +1773,7 @@
   {
     "slug": "perimenopause-why-am-i-so-wet",
     "title": "Why Am I So Wet During Perimenopause? The Hormone Explanation",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause why am i so wet",
     "intent": "",
     "summary": "Watery discharge in perimenopause explained: why estrogen surges before they fall, how progesterone decline removes the natural thickening effect, and when to see a doctor.",
@@ -1804,6 +1848,17 @@
     "n_citations": 3
   },
   {
+    "slug": "pms-after-menopause",
+    "title": "Why Do I Still Have PMS After Menopause? The Hormone Logic Behind It",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "pms after menopause",
+    "intent": "informational",
+    "summary": "PMS symptoms - bloating, mood crashes, irritability - can persist in perimenopause and even after periods stop. Here is the hormone science behind why, and what is actually happening.",
+    "url": "https://estrogenleftthechat.com/blog/pms-after-menopause",
+    "citations_doi": "10.1146/annurev-clinpsy-061724-083756; 10.1007/s11920-021-01285-1; 10.1038/s41598-024-84208-3; 10.1007/s12325-025-03427-w",
+    "n_citations": 4
+  },
+  {
     "slug": "preventing-heart-disease-after-menopause",
     "title": "The Diet Pattern That Actually Protects Your Heart in Menopause",
     "category": "Heart & Cardiovascular Health",
@@ -1838,14 +1893,14 @@
   },
   {
     "slug": "protein-muscle-support-menopause",
-    "title": "Protein and Muscle Support in Menopause: Your Essential Guide",
+    "title": "Protein and Muscle in Menopause: The Science-Backed Strategy",
     "category": "Strength, Muscle & Body Composition",
     "primary_keyword": "",
     "intent": "informational",
-    "summary": "How to support muscle mass during menopause with protein timing, strength training, and nutrition strategies that work for women over 40.",
+    "summary": "Menopause raises your minimum effective protein dose and impairs muscle protein turnover. Learn the science-backed protein strategy -- amounts, timing, and training -- for preserving muscle mass after estrogen declines.",
     "url": "https://estrogenleftthechat.com/blog/protein-muscle-support-menopause",
-    "citations_doi": "",
-    "n_citations": 0
+    "citations_doi": "10.1002/jcsm.70232; 10.3389/fendo.2026.1805067; 10.1080/13697137.2026.2713394; 10.1152/japplphysiol.00886.2023; 10.4103/jmh.jmh_134_25; 10.1080/15502783.2026.2646626; 10.1519/JSC.0000000000004661; 10.1007/s11357-025-01877-2",
+    "n_citations": 8
   },
   {
     "slug": "reset-metabolism-after-menopause",
@@ -1982,7 +2037,7 @@
   {
     "slug": "weird-smelling-pee-perimenopause",
     "title": "Why Your Pee Smells Different in Perimenopause (and What It Actually Means)",
-    "category": "Symptoms",
+    "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause urine smell",
     "intent": "",
     "summary": "Why does pee smell different in perimenopause? Falling estrogen shifts urogenital pH, disrupts the microbiome, and raises UTI risk. Here is what the science says.",
@@ -2135,9 +2190,9 @@
   },
   {
     "slug": "why-gaining-weight-menopause",
-    "title": "Why Am I Gaining Weight in Menopause? The Real Reasons",
+    "title": "Why Am I Gaining Weight in Menopause? Cortisol and the Real Reasons",
     "category": "Weight Gain After 40",
-    "primary_keyword": "",
+    "primary_keyword": "why am I gaining weight in menopause cortisol",
     "intent": "informational",
     "summary": "Why am I gaining weight in menopause? Discover the real hormonal and metabolic reasons behind midlife weight gain and what you can do about it.",
     "url": "https://estrogenleftthechat.com/blog/why-gaining-weight-menopause",
