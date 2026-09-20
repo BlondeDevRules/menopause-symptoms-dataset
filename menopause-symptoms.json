@@ -44,28 +44,6 @@
     "n_citations": 8
   },
   {
-    "slug": "best-foods-menopause-weight-loss",
-    "title": "Best Foods for Menopause Weight Loss: A Hormonal Approach",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "best foods for menopause weight loss",
-    "intent": "informational",
-    "summary": "Uncover the best foods for menopause weight loss, focusing on hormone-supportive nutrition. Learn why traditional diets fail after 40 and what to eat to reclaim your metabolic health.",
-    "url": "https://estrogenleftthechat.com/blog/best-foods-menopause-weight-loss",
-    "citations_doi": "10.1016/j.jada.2009.06.369; 10.1016/j.tjnut.2023.08.011; 10.1002/14651858.CD003177.pub5; 10.1093/jnci/82.11.947; 10.1093/jnci/89.10.718; 10.1186/s13098-023-01057-2",
-    "n_citations": 6
-  },
-  {
-    "slug": "biohacking-menopause-omega3-hormonal-balance",
-    "title": "Biohacking Menopause: Omega-3 Fatty Acids for Hormonal Balance",
-    "category": "Supplements & Biohacks",
-    "primary_keyword": "omega-3 in menopause",
-    "intent": "informational",
-    "summary": "Unlock the power of omega-3 in menopause for hormonal balance, inflammation reduction, and cognitive health. Learn how to optimize your intake for midlife wellness.",
-    "url": "https://estrogenleftthechat.com/blog/biohacking-menopause-omega3-hormonal-balance",
-    "citations_doi": "10.1007/s40292-025-00758-1; 10.1097/AOG.0000000000006418; 10.1016/j.jacl.2022.10.002; 10.3390/molecules27144471; 10.3389/fragi.2025.1706117",
-    "n_citations": 5
-  },
-  {
     "slug": "body-composition-changes-midlife",
     "title": "Body Composition Changes in Midlife: Beyond the Scale",
     "category": "Weight Gain After 40",
@@ -137,10 +115,10 @@
     "category": "Menopause Symptoms",
     "primary_keyword": "can perimenopause cause kidney stones",
     "intent": "informational",
-    "summary": "Can perimenopause cause kidney stones? Yes - postmenopausal women are 50% more likely to develop kidney stone disease. The mechanism runs through altered urinary citrate, accelerated bone turnover, and metabolic pH shifts driven by estrogen decline. Here is what the research shows.",
+    "summary": "Can perimenopause cause kidney stones? Yes - postmenopausal women are 50% more likely to develop kidney stone disease. Higher estradiol is independently protective (NHANES data). The mechanisms: falling urinary citrate, accelerated bone turnover, and acidic urine pH driven by estrogen decline. Six studies explained.",
     "url": "https://estrogenleftthechat.com/blog/can-perimenopause-cause-kidney-stones",
-    "citations_doi": "10.1016/j.annepidem.2022.12.002; 10.1016/j.juro.2018.04.080",
-    "n_citations": 2
+    "citations_doi": "10.1016/j.annepidem.2022.12.002; 10.1093/ndt/gfac037; 10.1007/s00345-020-03286-w; 10.1016/j.juro.2018.04.080; 10.1053/j.ajkd.2024.02.010; 10.1093/ajcn/nqaa066",
+    "n_citations": 6
   },
   {
     "slug": "cant-sleep-menopause-culprit",
@@ -275,17 +253,6 @@
     "n_citations": 4
   },
   {
-    "slug": "does-protein-help-with-menopause",
-    "title": "Does Protein Help with Menopause? Unpacking the Science",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "does protein help with menopause",
-    "intent": "informational",
-    "summary": "Does protein help with menopause? Absolutely. Learn how protein combats weight gain, muscle loss, and metabolic slowdown during this hormonal transition.",
-    "url": "https://estrogenleftthechat.com/blog/does-protein-help-with-menopause",
-    "citations_doi": "10.1016/j.clnu.2014.04.007; 10.1139/apnm-2015-0550; 10.1016/j.tjnut.2023.08.011; 10.1016/j.jada.2009.06.369; 10.3945/ajcn.114.084038; 10.1017/S1368980013002875",
-    "n_citations": 6
-  },
-  {
     "slug": "easy-bruising-after-menopause",
     "title": "Why Do I Bruise So Easily After Menopause?",
     "category": "Menopause Symptoms",
@@ -295,6 +262,17 @@
     "url": "https://estrogenleftthechat.com/blog/easy-bruising-after-menopause",
     "citations_doi": "10.1111/jocd.70626; 10.1007/s13555-026-01731-z; 10.1111/jocd.70671; 10.1016/j.jaad.2025.08.050",
     "n_citations": 4
+  },
+  {
+    "slug": "eating-alone-after-60-women-nutrition",
+    "title": "Does Eating Alone After 60 Change What Women Eat?",
+    "category": "Menopause Nutrition",
+    "primary_keyword": "elderly eating alone",
+    "intent": "informational",
+    "summary": "Sometimes. A 2026 review of 24 studies linked eating alone after 65 to poorer diet quality and frailty risk, but 5 found no harm. What the research shows for women.",
+    "url": "https://estrogenleftthechat.com/blog/eating-alone-after-60-women-nutrition",
+    "citations_doi": "10.1016/j.appet.2025.108327; 10.3390/ijerph18073495; 10.1016/j.nut.2021.111268; 10.1111/opn.12523; 10.3390/nu15102391; 10.1002/jcsm.12972; 10.3389/fpsyt.2025.1562487",
+    "n_citations": 7
   },
   {
     "slug": "eating-for-menopause-weight-loss",
@@ -372,39 +350,6 @@
     "url": "https://estrogenleftthechat.com/blog/frozen-shoulder-menopause",
     "citations_doi": "10.3390/jcm14207315; 10.1080/13697137.2024.2380363",
     "n_citations": 2
-  },
-  {
-    "slug": "gut-health-menopause-myth-fact",
-    "title": "Unpacking Gut Health in Menopause: Why Your Gut is Shifting",
-    "category": "Digestive & Gut Health",
-    "primary_keyword": "gut health menopause",
-    "intent": "informational",
-    "summary": "Wondering about gut health in menopause? This expert analysis breaks down recent studies, revealing the complex link between estrogen decline, gut microbiome, and midlife metabolic changes.",
-    "url": "https://estrogenleftthechat.com/blog/gut-health-menopause-myth-fact",
-    "citations_doi": "10.3389/fendo.2026.1780806; 10.1039/d6fo00429f; 10.3390/nu18071130",
-    "n_citations": 3
-  },
-  {
-    "slug": "gut-health-menopause-weight-gain-connection",
-    "title": "Gut Health & Menopause Weight Gain: The Surprising Connection",
-    "category": "Digestive & Gut Health",
-    "primary_keyword": "gut health menopause weight gain",
-    "intent": "informational",
-    "summary": "Uncover the surprising connection between gut health and menopause weight gain. Marilyn Luis from 'Estrogen Left the Chat' explains the science and offers protocols to reclaim your metabolism.",
-    "url": "https://estrogenleftthechat.com/blog/gut-health-menopause-weight-gain-connection",
-    "citations_doi": "10.1016/j.critrevonc.2026.105471; 10.1016/j.maturitas.2026.108830; 10.1097/gme.0000000000001730; 10.1002/fsn3.71801; 10.1016/j.copbio.2016.11.010",
-    "n_citations": 5
-  },
-  {
-    "slug": "hard-to-lose-weight-after-menopause-estrogen-metabolites",
-    "title": "Why It's So Hard to Lose Weight After Menopause: Estrogen's Role",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "hard to lose weight after menopause",
-    "intent": "informational",
-    "summary": "Are you asking why it's so hard to lose weight after menopause? Learn about 2-hydroxy vs. 16-hydroxy estrogen metabolites and how they impact metabolism. Uncover the science behind stubborn weight gain and a targeted protocol from 'Estrogen Left the Chat' to reclaim your health.",
-    "url": "https://estrogenleftthechat.com/blog/hard-to-lose-weight-after-menopause-estrogen-metabolites",
-    "citations_doi": "10.1016/j.maturitas.2012.02.002; 10.1093/jnci/89.10.718; 10.1007/s10549-017-4292-7; 10.1093/jnci/82.11.947; 10.1515/jcim-2022-0301",
-    "n_citations": 5
   },
   {
     "slug": "histamine-intolerance-perimenopause",
@@ -627,6 +572,17 @@
     "n_citations": 2
   },
   {
+    "slug": "low-sodium-slow-cooker-recipes-seniors",
+    "title": "Low Sodium Slow Cooker Recipes for Seniors: Real Milligrams, Hidden Traps, and the Blood Pressure Connection",
+    "category": "Menopause Nutrition",
+    "primary_keyword": "low sodium slow cooker recipes for seniors",
+    "intent": "informational",
+    "summary": "Low sodium slow cooker recipes for seniors with real milligram counts per serving, the hidden salt traps most recipes skip, and why blood pressure rises after menopause - with two tested bean recipes under 250 mg.",
+    "url": "https://estrogenleftthechat.com/blog/low-sodium-slow-cooker-recipes-seniors",
+    "citations_doi": "10.1016/j.steroids.2023.109299; 10.1007/s11906-023-01257-1; 10.4102/hsag.v26i0.1496; 10.1001/jamainternmed.2025.1580",
+    "n_citations": 4
+  },
+  {
     "slug": "melatonin-menopause-metabolism-fix-book",
     "title": "Melatonin for Menopause Metabolism: Beyond Just Sleep Aid",
     "category": "Metabolism in Midlife",
@@ -636,17 +592,6 @@
     "url": "https://estrogenleftthechat.com/blog/melatonin-menopause-metabolism-fix-book",
     "citations_doi": "10.1186/s12986-025-01061-5; 10.1186/s13098-026-02177-1; 10.1111/j.1467-789x.2010.00756.x; 10.1007/s44470-026-00144-1; 10.2147/NSS.S524348",
     "n_citations": 5
-  },
-  {
-    "slug": "melatonin-menopause-weight-loss",
-    "title": "Melatonin for Menopause Weight Loss: Beyond Just Sleep",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "melatonin menopause weight loss",
-    "intent": "informational",
-    "summary": "Uncover how melatonin influences metabolism and fat burning in menopause, helping with weight loss. Learn why declining estrogen affects melatonin and practical strategies.",
-    "url": "https://estrogenleftthechat.com/blog/melatonin-menopause-weight-loss",
-    "citations_doi": "10.1007/s44470-026-00144-1; 10.1186/s12986-025-01061-5; 10.1111/j.1467-789x.2010.00756.x; 10.1186/s13098-026-02177-1; 10.1016/j.nut.2021.111399; 10.3390/nu18010134",
-    "n_citations": 6
   },
   {
     "slug": "memory-loss-menopause-brain-fog-dementia",
@@ -715,17 +660,6 @@
     "n_citations": 3
   },
   {
-    "slug": "menopause-fatigue-what-helps",
-    "title": "Beat Menopause Fatigue: What Really Helps & Why You're So Tired",
-    "category": "Menopause Symptoms",
-    "primary_keyword": "menopause fatigue what helps",
-    "intent": "informational",
-    "summary": "Struggling with menopause fatigue? Learn why you're so exhausted and what truly helps restore energy, from nutrition to lifestyle shifts.",
-    "url": "https://estrogenleftthechat.com/blog/menopause-fatigue-what-helps",
-    "citations_doi": "10.1007/s40279-022-01733-9; 10.1111/apha.14117; 10.1016/j.jsmc.2018.04.011; 10.1097/gme.0000000000001793; 10.1136/bjsports-2017-097608; 10.3390/nu9050429",
-    "n_citations": 6
-  },
-  {
     "slug": "menopause-foot-pain",
     "title": "Menopause and Foot Pain: Why Your Feet Hurt More in Your 40s (And What Estrogen Has to Do With It)",
     "category": "Menopause Symptoms",
@@ -745,28 +679,6 @@
     "summary": "Dive into expert analysis on menopause and gut health. Discover how personalized nutrition impacts blood sugar, HPA axis, and bone density for symptom relief.",
     "url": "https://estrogenleftthechat.com/blog/menopause-gut-health-personalized-nutrition",
     "citations_doi": "10.1080/27697061.2026.2632580; 10.1177/10600280261426643; 10.1177/15598276261436778; 10.1016/j.maturitas.2026.108914",
-    "n_citations": 4
-  },
-  {
-    "slug": "menopause-gut-microbiome-estrobolome",
-    "title": "The Estrobolome: How Your Gut Recycles Estrogen in Menopause",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "estrobolome menopause",
-    "intent": "informational",
-    "summary": "Dive deep into the critical role of your menopause gut microbiome and estrobolome. Learn how personalized nutrition can balance hormones, improve energy, and alleviate symptoms.",
-    "url": "https://estrogenleftthechat.com/blog/menopause-gut-microbiome-estrobolome",
-    "citations_doi": "10.1080/27697061.2026.2632580; 10.1177/15598276261436778",
-    "n_citations": 2
-  },
-  {
-    "slug": "menopause-gut-microbiome-symptoms",
-    "title": "Can Gut Bacteria Change Your Estrogen Levels in Menopause?",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "menopause gut microbiome",
-    "intent": "informational",
-    "summary": "Discover how the gut microbiome profoundly impacts menopause symptoms and overall health. Expert analysis on the latest research for actionable strategies to support your gut for a better menopause.",
-    "url": "https://estrogenleftthechat.com/blog/menopause-gut-microbiome-symptoms",
-    "citations_doi": "10.1080/27697061.2026.2632580; 10.1177/10600280261426643; 10.1177/15598276261436778; 10.1016/j.maturitas.2026.108914],",
     "n_citations": 4
   },
   {
@@ -845,17 +757,6 @@
     "url": "https://estrogenleftthechat.com/blog/menopause-recurrent-utis",
     "citations_doi": "10.1097/01.JAA.0000000000000378; 10.21037/gpm-2025-1-79; 10.1016/j.maturitas.2026.108921; 10.1159/000553344",
     "n_citations": 4
-  },
-  {
-    "slug": "menopause-weight-gain-around-middle-what-to-do",
-    "title": "Tackling Menopause Weight Gain Around the Middle: What to Do",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "menopause weight gain around middle what to do",
-    "intent": "informational",
-    "summary": "Are you experiencing menopause weight gain around the middle? Marilyn Luis reveals the latest research on visceral fat, heavy metals, and surgical outcomes. Actionable insights await.",
-    "url": "https://estrogenleftthechat.com/blog/menopause-weight-gain-around-middle-what-to-do",
-    "citations_doi": "10.1177/00368504261437185; 10.1128/spectrum.03123-25; 10.7759/cureus.103873",
-    "n_citations": 3
   },
   {
     "slug": "menopause-weight-loss-solution-book",
@@ -979,17 +880,6 @@
     "n_citations": 2
   },
   {
-    "slug": "more-protein-in-menopause",
-    "title": "Do You Need More Protein in Menopause? The Science-Backed Truth",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "more protein in menopause",
-    "intent": "informational",
-    "summary": "Discover why women in menopause need more protein than ever, according to new research. Expert analysis on muscle, metabolism, and hormonal changes.",
-    "url": "https://estrogenleftthechat.com/blog/more-protein-in-menopause",
-    "citations_doi": "10.1007/s11357-026-02257-0; 10.0000/0000000000002782; 10.1097/GME.0000000000002793",
-    "n_citations": 3
-  },
-  {
     "slug": "muscle-loss-after-40-reversing-sarcopenia-midlife-women",
     "title": "Muscle Loss After 40: Reversing Sarcopenia in Midlife Women",
     "category": "Strength, Muscle & Body Composition",
@@ -1067,17 +957,6 @@
     "n_citations": 3
   },
   {
-    "slug": "omega-3-for-menopause-real-benefits",
-    "title": "Omega-3 for Menopause: Beyond the Hype, The Real Benefits",
-    "category": "Supplements & Biohacks",
-    "primary_keyword": "omega-3 for menopause",
-    "intent": "informational",
-    "summary": "Explore the science-backed benefits of omega-3 for menopause symptoms like hot flashes, brain fog, and joint pain. Learn dosages and sources for optimal health.",
-    "url": "https://estrogenleftthechat.com/blog/omega-3-for-menopause-real-benefits",
-    "citations_doi": "10.1097/AOG.0000000000000927; 10.1097/GME.0000000000001461; 10.3390/nu15194231; 10.1002/14651858.CD003177.pub5; 10.1186/s13018-023-03855-w; 10.1038/s41398-019-0515-5; 10.1016/j.plefa.2023.102572",
-    "n_citations": 7
-  },
-  {
     "slug": "optimal-protein-per-meal-muscle-synthesis-after-45",
     "title": "Optimal Protein Per Meal for Muscle Synthesis After 45",
     "category": "Strength, Muscle & Body Composition",
@@ -1144,17 +1023,6 @@
     "n_citations": 3
   },
   {
-    "slug": "perimenopause-and-weight-beyond-calories-crash-diets",
-    "title": "Perimenopause and Weight: Beyond Calories & Crash Diets",
-    "category": "Perimenopause",
-    "primary_keyword": "perimenopause and weight",
-    "intent": "informational",
-    "summary": "Unpack the complex relationship between perimenopause and weight gain. Learn how hormones, stress, and lifestyle interact beyond simple calorie counting.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-and-weight-beyond-calories-crash-diets",
-    "citations_doi": "10.3760/cma.j.cn112338-20250924-00675; 10.1177/15598276261436778; 10.1093/schbul/sbaf170",
-    "n_citations": 3
-  },
-  {
     "slug": "perimenopause-at-30",
     "title": "Can Perimenopause Start at 30? Here's What the Research Actually Says",
     "category": "Menopause Symptoms",
@@ -1208,28 +1076,6 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-brain-fog-natural-remedies",
     "citations_doi": "10.3389/fgene.2026.1733593; 10.1038/s41574-026-01245-w; 10.2196/84803",
     "n_citations": 3
-  },
-  {
-    "slug": "perimenopause-brain-fog-natural-remedies-expert-insights",
-    "title": "Perimenopause Brain Fog and Memory Loss: Natural Remedies & Expert Insights",
-    "category": "Perimenopause",
-    "primary_keyword": "perimenopause memory loss remedies",
-    "intent": "informational",
-    "summary": "Combat perimenopause brain fog with evidence-based natural remedies. Marilyn Luis, a menopause expert, reveals how to boost cognitive function effectively.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-brain-fog-natural-remedies-expert-insights",
-    "citations_doi": "10.1002/ijgo.70943; 10.3390/life16030401",
-    "n_citations": 2
-  },
-  {
-    "slug": "perimenopause-can-cause-uti",
-    "title": "Why Do I Keep Getting UTIs in Perimenopause? The Estrogen-Bladder Connection",
-    "category": "Menopause Symptoms",
-    "primary_keyword": "perimenopause can cause uti",
-    "intent": "informational",
-    "summary": "Can perimenopause cause UTIs? Yes - declining estrogen thins your urinary tract lining and disrupts the protective Lactobacillus microbiome, making you far more vulnerable to recurrent infection. Here is the mechanism and what actually helps.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-can-cause-uti",
-    "citations_doi": "10.1159/000553344; 10.1097/GME.0000000000002187; 10.3389/frph.2021.783247; 10.1097/SPV.0000000000001171",
-    "n_citations": 4
   },
   {
     "slug": "perimenopause-can-cause-weight-loss",
@@ -1518,17 +1364,6 @@
     "n_citations": 3
   },
   {
-    "slug": "perimenopause-rage-why-you-snap-how-to-find-calm",
-    "title": "Perimenopause Rage: Why You Snap & How to Find Calm",
-    "category": "Mood & Brain Fog",
-    "primary_keyword": "perimenopause fits of rage",
-    "intent": "informational",
-    "summary": "Are perimenopause fits of rage hijacking your life? Discover the hormonal and gut imbalances behind the anger and learn actionable strategies from 'Estrogen Left the Chat' to restore emotional balance.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-rage-why-you-snap-how-to-find-calm",
-    "citations_doi": "10.1177/1534582305277152; 10.1080/09540261.2018.1553775; 10.1016/j.psyneuen.2015.04.022; 10.1097/GME.0000000000002570; 10.1016/j.jad.2024.04.041; 10.1016/j.cell.2015.02.047",
-    "n_citations": 6
-  },
-  {
     "slug": "perimenopause-rashes",
     "title": "Why Am I Getting Skin Rashes in Perimenopause? The Hormone-Skin Connection",
     "category": "Menopause Symptoms",
@@ -1650,50 +1485,6 @@
     "n_citations": 4
   },
   {
-    "slug": "perimenopause-weight-gain-around-middle",
-    "title": "Perimenopause Weight Gain Around Middle: Why It's Not Your Fault",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "perimenopause weight gain around middle",
-    "intent": "informational",
-    "summary": "Frustrated by perimenopause weight gain around your middle? Learn why declining estrogen changes your metabolism and fat distribution. It's not your fault – it's biochemistry. Get expert analysis and actionable solutions.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-weight-gain-around-middle",
-    "citations_doi": "10.1097/GME.0000000000002806; 10.3389/fonc.2026.1770641; 10.1007/s00394-026-04005-8",
-    "n_citations": 3
-  },
-  {
-    "slug": "perimenopause-weight-gain-belly-fat",
-    "title": "Perimenopause Weight Gain & Stubborn Belly Fat: It's Not Just You",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "perimenopause weight gain belly",
-    "intent": "informational",
-    "summary": "Struggling with perimenopause weight gain and stubborn belly fat? It's not your fault. Learn how hormonal shifts impact metabolism and what to do.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-weight-gain-belly-fat",
-    "citations_doi": "10.1016/j.numecd.2026.104637; 10.1016/j.biopha.2026.119317",
-    "n_citations": 2
-  },
-  {
-    "slug": "perimenopause-weight-gain-causes-solutions",
-    "title": "Perimenopause Weight Gain: Beyond Calories & Crash Diets",
-    "category": "Perimenopause",
-    "primary_keyword": "perimenopause weight gain crash diets",
-    "intent": "informational",
-    "summary": "Struggling with perimenopause weight gain? Discover the hormonal shifts, metabolic changes, and lifestyle strategies to manage your weight effectively.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-weight-gain-causes-solutions",
-    "citations_doi": "10.1172/jci.insight.124865; 10.3390/metabo15040242; 10.1016/j.psyneuen.2015.08.014; 10.3945/jn.113.185280; 10.7326/0003-4819-141-11-200412070-00008",
-    "n_citations": 5
-  },
-  {
-    "slug": "perimenopause-weight-gain-help",
-    "title": "Perimenopause Weight Gain Help: Why Stubborn Pounds Aren't Your Fault",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "perimenopause weight gain help",
-    "intent": "informational",
-    "summary": "Struggling with perimenopause weight gain? It's not your fault. Uncover the science behind metabolic slowdown and essential strategies for real results.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-weight-gain-help",
-    "citations_doi": "10.1016/j.numecd.2026.104637; 10.3390/nu18071130; 10.1177/10507256261442839",
-    "n_citations": 3
-  },
-  {
     "slug": "perimenopause-weight-gain-protein-leverage-hypothesis",
     "title": "Why Perimenopause Weight Gain Isn't Your Fault: The Protein Leverage Solution",
     "category": "Perimenopause",
@@ -1703,17 +1494,6 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-weight-gain-protein-leverage-hypothesis",
     "citations_doi": "10.1111/obr.12131; 10.1038/s41366-023-01455-6; 10.1017/S1368980017001574; 10.1002/jcsm.70232; 10.1093/ajcn/87.5.1558S; 10.1016/j.jada.2009.06.369; 10.3945/jn.113.185280; 10.1093/ajcn/87.5.1567S",
     "n_citations": 8
-  },
-  {
-    "slug": "perimenopause-weight-gain-solutions-gut-estrogen",
-    "title": "Perimenopause Weight Gain Solutions: The Gut-Estrogen Link",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "perimenopause weight gain solutions",
-    "intent": "informational",
-    "summary": "Uncover science-backed perimenopause weight gain solutions. Learn about the estrobolome, its role in estrogen recycling, and how to optimize your gut health to manage weight effectively.",
-    "url": "https://estrogenleftthechat.com/blog/perimenopause-weight-gain-solutions-gut-estrogen",
-    "citations_doi": "10.1016/j.maturitas.2017.06.025; 10.1080/19490976.2023.2236749; 10.1136/gutjnl-2018-316723; 10.1152/physrev.00003.2008; 10.1007/s00394-020-02282-5; 10.1016/j.cell.2021.06.019; 10.1161/CIR.0000000000000709; 10.1038/nature12820; 10.1080/01635580903305342",
-    "n_citations": 9
   },
   {
     "slug": "perimenopause-weight-gain-treatment",
@@ -1802,6 +1582,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-why-am-i-so-hungry",
     "citations_doi": "10.1007/s44417-026-00014-7; 10.1113/JP279501; 10.1210/clinem/dgaf592; 10.1016/j.ajpc.2025.101398; 10.1042/bsr20231916",
     "n_citations": 5
+  },
+  {
+    "slug": "perimenopause-why-am-i-so-irritable",
+    "title": "Why Am I So Irritable During Perimenopause? The Hormone Short-Fuse Explained",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "why am i so irritable perimenopause",
+    "intent": "",
+    "summary": "Why perimenopause makes you so irritable: falling progesterone and erratic estrogen disrupt your brain's GABA and serotonin systems - the hormone short-fuse explained, with what research shows helps.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-why-am-i-so-irritable",
+    "citations_doi": "10.3390/nu18132185; 10.1016/j.neubiorev.2025.106438; 10.1002/ijgo.70943; 10.1007/s12325-025-03427-w",
+    "n_citations": 4
   },
   {
     "slug": "perimenopause-why-am-i-so-sleepy",
@@ -1947,17 +1738,6 @@
     "n_citations": 3
   },
   {
-    "slug": "protein-menopause-weight-loss",
-    "title": "Protein & Menopause Weight Loss: The Estrogen-Metabolism Link",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "protein menopause weight loss",
-    "intent": "informational",
-    "summary": "Uncover the critical role of protein in menopause weight loss. Learn precise protocols, combat metabolic slowdown, and understand the science behind effective strategies from 'Estrogen Left the Chat.'",
-    "url": "https://estrogenleftthechat.com/blog/protein-menopause-weight-loss",
-    "citations_doi": "10.1038/ijo.2008.25; 10.1126/science.abe5017; 10.3390/nu13124556; 10.1002/jcsm.70232; 10.1093/gerona/glad038; 10.1093/nutrit/nuv065; 10.3390/nu14194210; 10.1016/j.jada.2009.06.369; 10.3945/jn.113.185280",
-    "n_citations": 9
-  },
-  {
     "slug": "protein-muscle-support-menopause",
     "title": "Protein and Muscle in Menopause: The Science-Backed Strategy",
     "category": "Strength, Muscle & Body Composition",
@@ -1969,17 +1749,6 @@
     "n_citations": 8
   },
   {
-    "slug": "reset-metabolism-after-menopause",
-    "title": "Reset Metabolism After Menopause: Expert Strategies & Science",
-    "category": "Metabolism in Midlife",
-    "primary_keyword": "reset metabolism after menopause",
-    "intent": "informational",
-    "summary": "Learn how to reset metabolism after menopause with evidence-based strategies from Marilyn Luis. Address visceral fat, heart health, and environmental toxins for a vibrant midlife.",
-    "url": "https://estrogenleftthechat.com/blog/reset-metabolism-after-menopause",
-    "citations_doi": "10.1177/00368504261437185; 10.1128/spectrum.03123-25; 10.7759/cureus.103873",
-    "n_citations": 3
-  },
-  {
     "slug": "restless-legs-menopause",
     "title": "Can Menopause Cause Restless Legs? The Iron and Dopamine Connection",
     "category": "Sleep & Stress",
@@ -1989,6 +1758,39 @@
     "url": "https://estrogenleftthechat.com/blog/restless-legs-menopause",
     "citations_doi": "10.5664/jcsm.11332; 10.1080/08998280.2025.2527549",
     "n_citations": 2
+  },
+  {
+    "slug": "slow-cooker-fish-recipes",
+    "title": "Slow Cooker Fish Recipes: How to Cook Fish in a Slow Cooker Without Overcooking It",
+    "category": "Menopause Nutrition",
+    "primary_keyword": "slow cooker fish recipes",
+    "intent": "informational",
+    "summary": "Slow cooker fish recipes that stay tender: cook the base first, add fish for the last 20 to 30 minutes to 145°F. Two low-sodium cod recipes for one or two.",
+    "url": "https://estrogenleftthechat.com/blog/slow-cooker-fish-recipes",
+    "citations_doi": "10.1016/j.jamda.2013.05.021; 10.1161/CIR.0000000000000574; 10.3390/nu12082278; 10.1007/s00394-017-1453-8; 10.4162/nrp.2021.15.4.468",
+    "n_citations": 5
+  },
+  {
+    "slug": "slow-cooker-recipes-for-one-or-two",
+    "title": "Slow Cooker Recipes for One or Two People: Sizing, Halving and What to Do with the Second Portion",
+    "category": "Menopause Nutrition",
+    "primary_keyword": "slow cooker recipes for one or two people",
+    "intent": "informational",
+    "summary": "Slow cooker recipes sized for one or two people: which cooker to buy, how to halve a recipe, store the second portion, and cook safely if you live alone.",
+    "url": "https://estrogenleftthechat.com/blog/slow-cooker-recipes-for-one-or-two",
+    "citations_doi": "10.1177/20533691251339566; 10.1001/jamanetworkopen.2025.3710; 10.1093/nutrit/nuae141; 10.1016/j.maturitas.2020.07.001",
+    "n_citations": 4
+  },
+  {
+    "slug": "slow-cooking-advanced-glycation-end-products-menopause",
+    "title": "Does Slow Cooking Make Food Healthier? What Low, Moist Heat Does to AGEs",
+    "category": "Menopause Nutrition",
+    "primary_keyword": "is slow cooking healthier",
+    "intent": "informational",
+    "summary": "Often, yes. Slow cooking uses low, moist heat, which forms far fewer AGEs than grilling or roasting. Here is what the trials show, and why it matters after menopause.",
+    "url": "https://estrogenleftthechat.com/blog/slow-cooking-advanced-glycation-end-products-menopause",
+    "citations_doi": "10.3390/nu8030125; 10.1016/j.jada.2010.03.018; 10.1016/j.xcrm.2025.102091; 10.1038/s41598-017-02268-0; 10.3390/cells12131684; 10.1097/gme.0000000000000755; 10.3390/nu14071468",
+    "n_citations": 7
   },
   {
     "slug": "smart-supplements-women-over-40",
@@ -2035,17 +1837,6 @@
     "n_citations": 3
   },
   {
-    "slug": "strength-training-women-over-45-biohacking-blueprint",
-    "title": "Strength Training Women Over 45: The Critical Biohacking Blueprint",
-    "category": "Strength, Muscle & Body Composition",
-    "primary_keyword": "strength training women over 45",
-    "intent": "informational",
-    "summary": "For strength training women over 45, it’s not just about aesthetics; it’s a non-negotiable biohacking strategy for bone density, muscle mass, and metabolic health. Uncover expert strategies.",
-    "url": "https://estrogenleftthechat.com/blog/strength-training-women-over-45-biohacking-blueprint",
-    "citations_doi": "10.7759/cureus.103873; 10.1080/27697061.2026.2632580; 10.1016/j.isci.2026.115105",
-    "n_citations": 3
-  },
-  {
     "slug": "stress-hormones-midlife-menopause",
     "title": "Stress & Hormones in Midlife: Unpacking the Menopause Connection",
     "category": "Sleep & Stress",
@@ -2057,17 +1848,6 @@
     "n_citations": 3
   },
   {
-    "slug": "testosterone-therapy-women-menopause-libido",
-    "title": "Should You Try Testosterone Therapy for Low Libido in Menopause?",
-    "category": "Intimacy & Sexual Health",
-    "primary_keyword": "testosterone therapy women menopause libido",
-    "intent": "informational",
-    "summary": "Testosterone therapy for low sexual desire in menopause has real clinical guidelines behind it. Here is what the evidence shows and what to discuss with your doctor.",
-    "url": "https://estrogenleftthechat.com/blog/testosterone-therapy-women-menopause-libido",
-    "citations_doi": "10.1080/09513590.2024.2364220; 10.1097/GRF.0000000000000916",
-    "n_citations": 2
-  },
-  {
     "slug": "vaginal-dryness-gsm-menopause",
     "title": "Vaginal Dryness in Menopause: What GSM Actually Is",
     "category": "Intimacy & Sexual Health",
@@ -2077,17 +1857,6 @@
     "url": "https://estrogenleftthechat.com/blog/vaginal-dryness-gsm-menopause",
     "citations_doi": "10.1093/sxmrev/qeaf055; 10.7326/ANNALS-24-00610",
     "n_citations": 2
-  },
-  {
-    "slug": "waking-up-3am-every-night-menopause",
-    "title": "Waking Up at 3 AM Every Night Menopause: Why & How to Fix It",
-    "category": "Sleep & Stress",
-    "primary_keyword": "waking up at 3am every night menopause",
-    "intent": "informational",
-    "summary": "Frustrated by waking up at 3 AM every night during menopause? Learn the hormonal and physiological reasons behind it and actionable steps to sleep through the night again, based on research from 'Estrogen Left the Chat'.",
-    "url": "https://estrogenleftthechat.com/blog/waking-up-3am-every-night-menopause",
-    "citations_doi": "10.1016/j.maturitas.2024.108053; 10.1210/clinem/dgac447; 10.1042/CS20257657; 10.1093/sleep/zsz131; 10.1097/GME.0000000000001398; 10.4103/0253-7176.106022; 10.7759/cureus.6466; 10.1016/j.explore.2024.103062; 10.1097/gme.0b013e3181732953; 10.1016/j.maturitas.2011.07.017; 10.1186/s12906-021-03297-z",
-    "n_citations": 11
   },
   {
     "slug": "weight-bearing-exercise-perimenopause-hormonal-health",
@@ -2156,50 +1925,6 @@
     "n_citations": 2
   },
   {
-    "slug": "why-am-i-gaining-weight-after-menopause",
-    "title": "Why Am I Gaining Weight After Menopause? The Muscle-Hormone Link",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "gaining weight after menopause",
-    "intent": "informational",
-    "summary": "Are you gaining weight after menopause despite no change in diet? Learn the surprising role of muscle as a metabolic organ and how declining estrogen impacts your metabolic rate. Get actionable steps from 'Estrogen Left the Chat'.",
-    "url": "https://estrogenleftthechat.com/blog/why-am-i-gaining-weight-after-menopause",
-    "citations_doi": "10.1002/jcsm.70232; 10.3389/fendo.2021.682012; 10.3390/jcm15020740; 10.1016/j.ajog.2019.04.023; 10.1097/GME.0000000000002839; 10.1186/s13018-025-05890-1; 10.1186/s12905-026-04359-5; 10.1016/j.clnu.2014.04.007; 10.1139/apnm-2015-0550; 10.1016/j.tjnut.2023.08.011; 10.3390/nu14194210",
-    "n_citations": 11
-  },
-  {
-    "slug": "why-am-i-gaining-weight-in-menopause-inflammation",
-    "title": "Why Am I Gaining Weight in Menopause? The Inflammation Switch",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "gaining weight in menopause",
-    "intent": "informational",
-    "summary": "Are you gaining weight in menopause? It's not just calories in, calories out. Learn how falling estrogen triggers chronic low-grade inflammation, making weight loss impossible. Discover the science and protocol to fix it.",
-    "url": "https://estrogenleftthechat.com/blog/why-am-i-gaining-weight-in-menopause-inflammation",
-    "citations_doi": "10.1007/s40292-025-00758-1; 10.1080/13697137.2026.2713394; 10.1016/j.jacl.2022.10.002; 10.1016/j.jada.2009.06.369; 10.1152/japplphysiol.00164.2004; 10.1007/s44470-026-00144-1",
-    "n_citations": 6
-  },
-  {
-    "slug": "why-am-i-so-angry-perimenopause",
-    "title": "Why Am I So Angry in Perimenopause? The Hormonal Truth",
-    "category": "Mood & Brain Fog",
-    "primary_keyword": "why am i so angry during perimenopause",
-    "intent": "informational",
-    "summary": "Uncover the science behind perimenopause anger and irritability. Estrogen fluctuation, progesterone decline, and cortisol dysregulation are to blame.",
-    "url": "https://estrogenleftthechat.com/blog/why-am-i-so-angry-perimenopause",
-    "citations_doi": "10.3389/fnins.2015.00037; 10.1016/j.maturitas.2024.108087; 10.1016/j.psyneuen.2019.104512; 10.3945/an.116.013821; 10.3390/nu9050429; 10.1001/jamainternmed.2013.13018; 10.1001/jamapsychiatry.2017.3998; 10.1038/s41398-019-0515-5",
-    "n_citations": 8
-  },
-  {
-    "slug": "why-brain-fog-all-the-time-menopause",
-    "title": "Why Brain Fog All The Time? Estrogen, Inflammation & Your Brain",
-    "category": "Mood & Brain Fog",
-    "primary_keyword": "why do i have brain fog all the time",
-    "intent": "informational",
-    "summary": "Are you asking, 'Why do I have brain fog all the time?' This expert analysis reveals the critical links between declining estrogen, inflammation, and cognitive changes in menopause.",
-    "url": "https://estrogenleftthechat.com/blog/why-brain-fog-all-the-time-menopause",
-    "citations_doi": "10.1002/ar.70206; 10.1097/JCN.0000000000001304; 10.1136/bmjsem-2026-003237",
-    "n_citations": 3
-  },
-  {
     "slug": "why-calorie-counting-fails-after-40",
     "title": "Why Calorie Counting Fails After 40: Menopause & Metabolic Shift",
     "category": "Weight Gain After 40",
@@ -2209,28 +1934,6 @@
     "url": "https://estrogenleftthechat.com/blog/why-calorie-counting-fails-after-40",
     "citations_doi": "10.1002/ijgo.70944; 10.1016/j.socscimed.2026.119213; 10.1016/j.maturitas.2026.108925",
     "n_citations": 3
-  },
-  {
-    "slug": "why-calorie-counting-stops-working-after-40",
-    "title": "Why Calorie Counting Fails After 40: Menopause Metabolism Shifts",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "calorie counting not working after 40",
-    "intent": "informational",
-    "summary": "Are you over 40 and frustrated by calorie counting not working? Learn how declining estrogen, metabolic changes, and altered brain chemistry make traditional diets ineffective for weight loss after 40.",
-    "url": "https://estrogenleftthechat.com/blog/why-calorie-counting-stops-working-after-40",
-    "citations_doi": "10.1152/ajpregu.00031.2026; 10.1017/S0007114526106941; 10.1007/s10552-026-02156-x",
-    "n_citations": 3
-  },
-  {
-    "slug": "why-cant-i-lose-weight-perimenopause",
-    "title": "Why Can't I Lose Weight During Perimenopause?",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "perimenopause weight loss",
-    "intent": "informational",
-    "summary": "Struggling with perimenopause weight loss? Learn why you can't lose weight during perimenopause due to estrogen fluctuations, insulin resistance, and metabolic slowdown. Get science-backed solutions.",
-    "url": "https://estrogenleftthechat.com/blog/why-cant-i-lose-weight-perimenopause",
-    "citations_doi": "10.1038/ijo.2008.25; 10.1016/j.ajog.2019.04.023; 10.3390/nu13124556; 10.1097/00006842-200009000-00005; 10.1007/s13679-018-0306-y; 10.3389/fendo.2021.682012; 10.1002/jcsm.70232; 10.1186/s12905-026-04359-5; 10.1016/j.clnu.2014.04.007; 10.1139/apnm-2015-0550; 10.1016/j.tjnut.2023.08.011",
-    "n_citations": 11
   },
   {
     "slug": "why-cant-i-sleep-menopause-reddit-fix",
@@ -2310,17 +2013,6 @@
     "n_citations": 2
   },
   {
-    "slug": "why-is-it-hard-to-lose-belly-fat-after-40",
-    "title": "Why Stubborn Belly Fat is So Hard to Lose After 40",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "lose belly fat after 40",
-    "intent": "informational",
-    "summary": "Struggling to lose belly fat after 40? It's not your fault. Learn how estrogen decline, stress, and metabolic changes make fat loss uniquely challenging in midlife.",
-    "url": "https://estrogenleftthechat.com/blog/why-is-it-hard-to-lose-belly-fat-after-40",
-    "citations_doi": "10.1016/j.maturitas.2026.108958; 10.1080/13697137.2026.2663898; 10.7759/cureus.106068",
-    "n_citations": 3
-  },
-  {
     "slug": "why-losing-weight-after-40-is-hard",
     "title": "Why Losing Weight After 40 Feels Impossible: The Hormone-Metabolism Shift",
     "category": "Weight Gain After 40",
@@ -2387,17 +2079,6 @@
     "n_citations": 8
   },
   {
-    "slug": "why-more-protein-menopause-non-negotiable",
-    "title": "Why More Protein in Menopause Is Non-Negotiable: The Science",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "why more protein in menopause",
-    "intent": "informational",
-    "summary": "Learn the scientific reasons why more protein in menopause is essential for combating muscle loss, metabolic slowdown, and stubborn weight gain, as detailed in 'Estrogen Left the Chat'.",
-    "url": "https://estrogenleftthechat.com/blog/why-more-protein-menopause-non-negotiable",
-    "citations_doi": "10.1007/s40279-022-01733-9; 10.3945/ajcn.114.090290; 10.1371/journal.pone.0140903; 10.1097/JES.0b013e318292f3d5; 10.3945/jn.113.185280; 10.1093/gerona/glu103; 10.3945/an.116.013821; 10.1136/bjsports-2017-097608",
-    "n_citations": 8
-  },
-  {
     "slug": "why-perimenopause-weight-gain",
     "title": "Why Perimenopause Weight Gain Happens: More Than Just Calories",
     "category": "Perimenopause",
@@ -2407,28 +2088,6 @@
     "url": "https://estrogenleftthechat.com/blog/why-perimenopause-weight-gain",
     "citations_doi": "10.3390/nu18071052; 10.21037/jtd-2025-aw-2279; 10.7759/cureus.106987",
     "n_citations": 3
-  },
-  {
-    "slug": "why-protein-menopause-metabolic-game-changer",
-    "title": "Why Protein in Menopause is Your Metabolic Game-Changer",
-    "category": "Menopause Nutrition",
-    "primary_keyword": "protein menopause",
-    "intent": "informational",
-    "summary": "Uncover why protein in menopause is non-negotiable for metabolic health. Learn how estrogen decline impacts muscle and metabolism, with actionable strategies from 'Estrogen Left the Chat.'",
-    "url": "https://estrogenleftthechat.com/blog/why-protein-menopause-metabolic-game-changer",
-    "citations_doi": "10.1055/s-0045-1809531; 10.3109/13697137.2012.707385; 10.1097/mco.0000000000000162; 10.1097/mco.0b013e32831cef8b; 10.3945/ajcn.116.145110; 10.1016/j.csbj.2019.07.005; 10.3945/jn.113.185280; 10.1016/j.jada.2009.06.369",
-    "n_citations": 8
-  },
-  {
-    "slug": "why-protein-perimenopause",
-    "title": "Perimenopause Protein: Why It's Your Weight & Mood Game-Changer",
-    "category": "Perimenopause",
-    "primary_keyword": "protein perimenopause",
-    "intent": "informational",
-    "summary": "Learn the undeniable science behind increasing protein in perimenopause to counteract hormonal shifts, preserve muscle, and support mood, metabolism, and cognitive function. Unpack the research.",
-    "url": "https://estrogenleftthechat.com/blog/why-protein-perimenopause",
-    "citations_doi": "10.1016/j.ajog.2019.04.023; 10.3390/jcm15020740; 10.3389/fendo.2021.682012; 10.1002/jcsm.70232; 10.1080/13803395.2026.2661616; 10.3389/falgy.2026.1777688; 10.3389/fpsyg.2026.1727315; 10.1016/j.clnu.2014.04.007; 10.1139/apnm-2015-0550; 10.1016/j.tjnut.2023.08.011; 10.1016/j.jada.2009.06.369; 10.3945/ajcn.114.084038",
-    "n_citations": 12
   },
   {
     "slug": "why-sleep-gets-worse-menopause",
@@ -2451,39 +2110,6 @@
     "url": "https://estrogenleftthechat.com/blog/why-traditional-diets-stop-working-after-40",
     "citations_doi": "10.1016/j.ebiom.2022.104303; 10.1080/13697137.2025.2509844",
     "n_citations": 2
-  },
-  {
-    "slug": "why-wake-up-3am-menopause",
-    "title": "Why Do You Wake Up at 3 AM in Menopause? The Complete Map of Causes",
-    "category": "Sleep & Stress",
-    "primary_keyword": "why do you wake up at 3am in menopause",
-    "intent": "informational",
-    "summary": "Waking up at 3am in menopause has several distinct real causes: cortisol-melatonin timing, a perimenopause hormonal cascade, gut-brain signaling, or an ADHD overlap. Here is how to tell which is yours.",
-    "url": "https://estrogenleftthechat.com/blog/why-wake-up-3am-menopause",
-    "citations_doi": "10.1111/jog.70276; 10.1109/JTEHM.2026.3675676; 10.2174/0118746098434021260107062622",
-    "n_citations": 3
-  },
-  {
-    "slug": "why-waking-at-3am-perimenopause",
-    "title": "Why Waking at 3 AM in Perimenopause Isn't Just Bad Sleep",
-    "category": "Perimenopause",
-    "primary_keyword": "waking up at 3am perimenopause",
-    "intent": "informational",
-    "summary": "Discover why you're waking up at 3 AM in perimenopause. Learn how fluctuating hormones disrupt sleep and practical steps to regain restful nights.",
-    "url": "https://estrogenleftthechat.com/blog/why-waking-at-3am-perimenopause",
-    "citations_doi": "10.1080/13625187.2026.2659158; 10.1111/jog.70272; 10.21037/jtd-2025-aw-2279",
-    "n_citations": 3
-  },
-  {
-    "slug": "why-weight-loss-after-menopause-is-so-hard",
-    "title": "Why Weight Loss After Menopause is So Hard (and What to Do)",
-    "category": "Weight Gain After 40",
-    "primary_keyword": "weight loss after menopause",
-    "intent": "informational",
-    "summary": "Struggling with weight loss after menopause? Learn the hormonal and metabolic reasons why it's so hard and get actionable strategies from 'Estrogen Left the Chat' to finally see results.",
-    "url": "https://estrogenleftthechat.com/blog/why-weight-loss-after-menopause-is-so-hard",
-    "citations_doi": "10.1038/ijo.2008.25; 10.1002/jcsm.70232; 10.1126/science.abe5017; 10.1016/j.psyneuen.2015.04.022; 10.1097/GME.0000000000000528; 10.1016/j.maturitas.2024.108053; 10.3390/nu13124556; 10.1042/CS20257657; 10.1055/s-2002-33195; 10.1186/s12906-021-03297-z; 10.4103/0253-7176.106022; 10.1016/j.explore.2024.103062; 10.1016/j.jada.2009.06.369; 10.3945/jn.113.185280; 10.1093/ajcn/87.5.1558S; 10.1128/msystems.00273-22",
-    "n_citations": 16
   },
   {
     "slug": "why-you-wake-up-at-3am-menopause-adhd-gut-metabolism",
