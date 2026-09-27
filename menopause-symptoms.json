@@ -583,6 +583,17 @@
     "n_citations": 4
   },
   {
+    "slug": "mediterranean-diet-seniors-over-60",
+    "title": "Mediterranean Diet for Seniors Over 60: Chewing, Appetite, Protein and Salt Made Practical",
+    "category": "Menopause Nutrition",
+    "primary_keyword": "mediterranean diet for seniors over 60",
+    "intent": "informational",
+    "summary": "Mediterranean diet for seniors over 60: how to handle chewing problems, low appetite, protein needs and salt, with two tested soft, low-sodium recipes.",
+    "url": "https://estrogenleftthechat.com/blog/mediterranean-diet-seniors-over-60",
+    "citations_doi": "10.3390/nu17172764; 10.5720/kjcn.2025.00360; 10.1016/j.jdsr.2025.10.002; 10.1016/j.nut.2026.113256; 10.3390/nu18020334",
+    "n_citations": 5
+  },
+  {
     "slug": "melatonin-menopause-metabolism-fix-book",
     "title": "Melatonin for Menopause Metabolism: Beyond Just Sleep Aid",
     "category": "Metabolism in Midlife",
@@ -1771,6 +1782,17 @@
     "n_citations": 5
   },
   {
+    "slug": "slow-cooker-mediterranean-diet-seniors",
+    "title": "Slow Cooker Mediterranean Diet for Seniors: Small Cookers, Real Sodium Counts, and the Muscle Connection",
+    "category": "Menopause Nutrition",
+    "primary_keyword": "slow cooker mediterranean diet for seniors",
+    "intent": "informational",
+    "summary": "Slow cooker Mediterranean diet for seniors: which cooker size fits two servings, why protein and sodium matter after 60, and two tested Mediterranean recipes under 500 mg sodium.",
+    "url": "https://estrogenleftthechat.com/blog/slow-cooker-mediterranean-diet-seniors",
+    "citations_doi": "10.26574/maedica.2020.15.4.521; 10.3390/nu17172764; 10.5720/kjcn.2025.00360; 10.3399/BJGP.2022.0564",
+    "n_citations": 4
+  },
+  {
     "slug": "slow-cooker-recipes-for-one-or-two",
     "title": "Slow Cooker Recipes for One or Two People: Sizing, Halving and What to Do with the Second Portion",
     "category": "Menopause Nutrition",
@@ -1899,7 +1921,7 @@
     "intent": "",
     "summary": "Why does pee smell different in perimenopause? Falling estrogen shifts urogenital pH, disrupts the microbiome, and raises UTI risk. Here is what the science says.",
     "url": "https://estrogenleftthechat.com/blog/weird-smelling-pee-perimenopause",
-    "citations_doi": "10.2152/jmi.73.229; 10.1097/JU.0000000000004589; 10.1097/GME.0000000000002187; 10.1016/j.maturitas.2026.108921",
+    "citations_doi": "10.1097/JU.0000000000004589; 10.2152/jmi.73.229; 10.1097/GME.0000000000002187; 10.1016/j.maturitas.2026.108921",
     "n_citations": 4
   },
   {
@@ -2003,14 +2025,14 @@
   },
   {
     "slug": "why-insulin-resistance-increase-menopause",
-    "title": "The Gut Microbiome's Role in Insulin Resistance During Menopause",
+    "title": "Does Your Gut Microbiome Drive Insulin Resistance After Menopause? What the Evidence Shows",
     "category": "Metabolism in Midlife",
-    "primary_keyword": "gut microbiome estrobolome insulin resistance menopause",
+    "primary_keyword": "gut microbiome insulin resistance menopause",
     "intent": "informational",
-    "summary": "Gut bacteria directly influence both estrogen recycling and insulin sensitivity, and menopause reshapes the microbiome in ways that compound insulin resistance.",
+    "summary": "Does the gut microbiome drive insulin resistance after menopause? A 2026 meta-analysis found no consistent diversity drop, yet diversity falls as metabolic syndrome builds.",
     "url": "https://estrogenleftthechat.com/blog/why-insulin-resistance-increase-menopause",
-    "citations_doi": "10.3389/fmed.2024.1452227; 10.6118/jmm.24024",
-    "n_citations": 2
+    "citations_doi": "10.3389/fendo.2026.1780806; 10.3389/fendo.2026.1890094; 10.1186/s12866-026-05291-2; 10.23736/S2724-6507.25.04483-5; 10.6118/jmm.24024; 10.3389/fmed.2024.1452227; 10.3390/nu18071130",
+    "n_citations": 7
   },
   {
     "slug": "why-losing-weight-after-40-is-hard",
