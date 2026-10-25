@@ -242,6 +242,17 @@
     "n_citations": 3
   },
   {
+    "slug": "crockpot-birria-soup",
+    "title": "Crockpot Birria Soup",
+    "category": "Slow Cooker Soups",
+    "primary_keyword": "crockpot birria soup",
+    "intent": "informational",
+    "summary": "Crockpot birria soup with toasted guajillo and ancho chiles and beef chuck that shreds with two forks. Full recipe, 8 to 10 hours on LOW, nutrition per serving, freezer note and birria tacos from the leftovers.",
+    "url": "https://estrogenleftthechat.com/blog/crockpot-birria-soup",
+    "citations_doi": "",
+    "n_citations": 0
+  },
+  {
     "slug": "dehydration-water-retention-menopause",
     "title": "Why Am I So Dehydrated in Menopause? Expert Secrets Unveiled",
     "category": "Menopause Nutrition",
@@ -544,7 +555,7 @@
     "category": "Menopause Symptoms",
     "primary_keyword": "internal vibrations perimenopause",
     "intent": "informational",
-    "summary": "Can perimenopause cause internal vibrations? Why fluctuating estrogen makes your body buzz with no visible tremor, what helps, and the symptoms that mean see a doctor.",
+    "summary": "Buzzing inside with nothing visibly shaking? It is a real, common perimenopause experience and usually harmless. Why it happens and when to get it checked.",
     "url": "https://estrogenleftthechat.com/blog/internal-vibrations-perimenopause",
     "citations_doi": "10.1002/alz.71291; 10.4103/jmh.jmh_238_25",
     "n_citations": 2
@@ -1160,7 +1171,7 @@
     "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause canker sores",
     "intent": "informational",
-    "summary": "Perimenopause canker sores are not random. Learn why estrogen decline changes your oral environment and what you can do to reduce their frequency and pain.",
+    "summary": "Yes, perimenopause can trigger more canker sores. How falling estrogen changes your mouth's lining, saliva and immune response, and why they keep coming back.",
     "url": "https://estrogenleftthechat.com/blog/perimenopause-canker-sores",
     "citations_doi": "10.3390/ijerph19010253; 10.1016/j.jds.2021.06.007; 10.4103/jmh.jmh_194_22; 10.1177/0300060517745388",
     "n_citations": 4
@@ -1281,7 +1292,7 @@
     "category": "Menopause Symptoms",
     "primary_keyword": "can perimenopause cause eye twitching",
     "intent": "informational",
-    "summary": "Can perimenopause cause eye twitching? Yes - eyelid myokymia is driven by hormonal nerve changes, sleep disruption, and magnesium loss.",
+    "summary": "Yes, perimenopause can cause eye twitching. Why the eyelid spasm (myokymia) comes in waves, what makes it worse, and when it is worth seeing a doctor.",
     "url": "https://estrogenleftthechat.com/blog/perimenopause-eye-twitching",
     "citations_doi": "10.1016/j.neuroscience.2025.12.055; 10.3390/jcm14051479; 10.1093/ajcn/nqaa392; 10.3389/fimmu.2026.1732320",
     "n_citations": 4
@@ -1369,10 +1380,21 @@
     "category": "Menopause Symptoms",
     "primary_keyword": "perimenopause jitters",
     "intent": "",
-    "summary": "Why do I feel so jittery in perimenopause? Estrogen and progesterone regulate your nervous system calm. When they drop, jitters, internal trembling and shakiness follow. Here is what the research says.",
+    "summary": "Yes, perimenopause can cause jitters and internal shakiness. How progesterone and estrogen swings do it, why it is worse at night, and when to see a doctor.",
     "url": "https://estrogenleftthechat.com/blog/perimenopause-jitters",
     "citations_doi": "10.1159/000553294; 10.1007/s12325-025-03427-w; 10.1016/j.maturitas.2024.108087; 10.1080/0167482X.2026.2666107",
     "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-leg-cramps",
+    "title": "Why Do I Get Leg Cramps in Perimenopause? What the Trials Actually Found",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause leg cramps",
+    "intent": "informational",
+    "summary": "Why do I get leg cramps in perimenopause? A Cochrane review of 735 people and a 2026 trial of 121 adults show magnesium barely moves the needle, and what did instead.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-leg-cramps",
+    "citations_doi": "10.1002/14651858.CD009402.pub3; 10.1186/s13063-025-09370-z; 10.1016/j.smrv.2019.101218",
+    "n_citations": 3
   },
   {
     "slug": "perimenopause-low-iron",
@@ -1428,6 +1450,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-nightmares",
     "citations_doi": "10.1016/j.mcna.2026.01.005; 10.3389/fpsyt.2026.1809106; 10.1002/brb3.70383; 10.1016/j.sleep.2026.109040",
     "n_citations": 4
+  },
+  {
+    "slug": "perimenopause-phantom-smells",
+    "title": "Phantom Smells in Perimenopause: Why You Keep Smelling Smoke or Burning That Isn't There",
+    "category": "Menopause Symptoms",
+    "primary_keyword": "perimenopause phantom smells",
+    "intent": "informational",
+    "summary": "Phantom smells in perimenopause, like smelling smoke or metal that isn't there, are real. What the hormone-smell research actually shows, what's unknown, and when to see a doctor.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-phantom-smells",
+    "citations_doi": "10.14639/0392-100X-N3174; 10.1038/s41598-019-56565-x",
+    "n_citations": 2
   },
   {
     "slug": "perimenopause-progesterone-decline-first-hormone-to-fade",
@@ -1494,6 +1527,17 @@
     "url": "https://estrogenleftthechat.com/blog/perimenopause-skin-crawling",
     "citations_doi": "10.1007/s40257-025-00994-0; 10.1177/20533691251332403; 10.1038/s41598-023-35934-7",
     "n_citations": 3
+  },
+  {
+    "slug": "perimenopause-snoring-sleep-apnea",
+    "title": "Started Snoring in Perimenopause? The Sleep Apnea Test Doctors Use Was Built for Men",
+    "category": "Sleep & Stress",
+    "primary_keyword": "menopause snoring",
+    "intent": "informational",
+    "summary": "Menopause snoring can signal real sleep apnea, and the standard screening test misses more cases in women. The hormone science, the numbers, and when to get a real sleep study.",
+    "url": "https://estrogenleftthechat.com/blog/perimenopause-snoring-sleep-apnea",
+    "citations_doi": "",
+    "n_citations": 0
   },
   {
     "slug": "perimenopause-start-at-37",
@@ -1809,7 +1853,7 @@
     "category": "Menopause Symptoms",
     "primary_keyword": "pms after menopause",
     "intent": "informational",
-    "summary": "PMS symptoms - bloating, mood crashes, irritability - can persist in perimenopause and even after periods stop.",
+    "summary": "Yes, PMS-type symptoms can continue after periods stop. Why bloating, mood crashes and irritability follow hormone swings, not menstruation itself.",
     "url": "https://estrogenleftthechat.com/blog/pms-after-menopause",
     "citations_doi": "10.1146/annurev-clinpsy-061724-083756; 10.1007/s11920-021-01285-1; 10.1038/s41598-024-84208-3; 10.1007/s12325-025-03427-w",
     "n_citations": 4
@@ -1881,6 +1925,17 @@
     "n_citations": 5
   },
   {
+    "slug": "slow-cooker-french-onion-soup",
+    "title": "Slow Cooker French Onion Soup",
+    "category": "Slow Cooker Soups",
+    "primary_keyword": "slow cooker french onion soup",
+    "intent": "informational",
+    "summary": "Slow cooker French onion soup, 11 1/2 to 13 hours on LOW with a broiler finish. Full recipe, nutrition per serving, freezer note and a smaller-batch option.",
+    "url": "https://estrogenleftthechat.com/blog/slow-cooker-french-onion-soup",
+    "citations_doi": "",
+    "n_citations": 0
+  },
+  {
     "slug": "slow-cooker-lentil-soup-for-one",
     "title": "Slow Cooker Lentil Soup for One: A Small-Batch Guide From My Cookbook",
     "category": "Menopause Nutrition",
@@ -1912,6 +1967,17 @@
     "url": "https://estrogenleftthechat.com/blog/slow-cooker-recipes-for-one-or-two",
     "citations_doi": "10.1177/20533691251339566; 10.1001/jamanetworkopen.2025.3710; 10.1093/nutrit/nuae141; 10.1016/j.maturitas.2020.07.001",
     "n_citations": 4
+  },
+  {
+    "slug": "slow-cooker-spinach-artichoke-soup",
+    "title": "Slow Cooker Spinach Artichoke Soup",
+    "category": "Slow Cooker Soups",
+    "primary_keyword": "slow cooker spinach artichoke soup",
+    "intent": "informational",
+    "summary": "Creamy slow cooker spinach artichoke soup with garlic Parmesan crumbs. Full recipe, 6 to 8 hours on LOW, nutrition per serving, freezer note and a next-day dip.",
+    "url": "https://estrogenleftthechat.com/blog/slow-cooker-spinach-artichoke-soup",
+    "citations_doi": "",
+    "n_citations": 0
   },
   {
     "slug": "slow-cooking-advanced-glycation-end-products-menopause",
@@ -1954,8 +2020,8 @@
     "intent": "informational",
     "summary": "A step-by-step overnight protocol for the two biggest hormonal drivers of 3am waking in menopause: cortisol timing and blood sugar swings.",
     "url": "https://estrogenleftthechat.com/blog/stop-waking-up-3am-menopause-cortisol-reset",
-    "citations_doi": "10.1210/clinem/dgag038; 10.1210/clinem/dgad285",
-    "n_citations": 2
+    "citations_doi": "10.1210/clinem/dgag038; 10.1210/clinem/dgad285; 10.1111/dom.70675",
+    "n_citations": 3
   },
   {
     "slug": "strength-training-on-glp-1-after-50",
